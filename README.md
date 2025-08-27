@@ -17,7 +17,7 @@ Lade und installiere Git:
 Öffne die **Eingabeaufforderung (CMD)** oder **PowerShell** und führe aus:
 
 ```bash
-git clone https://github.com/Maimar95/Letzte-Anpassung.git
+git clone https://github.com/Maimar95/Meso_Project.git
 cd Letzte-Anpassung
 ```
 
@@ -112,3 +112,4 @@ Dann führe folgende Schritte aus:
 3. Überprüfe, ob der Ordner `stadt_klassifikator/` vollständig heruntergeladen wurde.
 
 ---
+
