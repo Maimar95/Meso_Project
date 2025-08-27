@@ -1,0 +1,44 @@
+{
+  "run": 9,
+  "accuracy": 0.9375,
+  "classification_report": "              precision    recall  f1-score   support\n\n      Berlin       1.00      0.90      0.95        20\n    Chemnitz       0.91      1.00      0.95        20\n     Hamburg       0.92      0.92      0.92        24\n\n    accuracy                           0.94        64\n   macro avg       0.94      0.94      0.94        64\nweighted avg       0.94      0.94      0.94        64\n",
+  "confusion_matrix": [
+    [
+      18,
+      0,
+      2
+    ],
+    [
+      0,
+      20,
+      0
+    ],
+    [
+      0,
+      2,
+      22
+    ]
+  ],
+  "misclassified_samples": [
+    {
+      "text": "Mathematik für KI Mathematik der Datenwissenschaft und KI Das 21. Jahrhundert, oft als das Datenzeitalter bezeichnet, ist geprägt durch die immense Sammlung von Informationen aus verschiedenen Quellen wie sozialen Medien, Gesundheitswesen oder Einzelhandel, was die Bedeutung der Datenwissenschaft und Künstlichen Intelligenz ( KI ) unterstreicht. Diese Disziplinen verändern die Art und Weise, wie wir diese Datenflut analysieren und interpretieren, und stellen sich den Herausforderungen, die durch unterschiedliche Datentypen und die schiere Menge der verfügbaren Daten entstehen. Der Einsatz ausgefeilter KI - und Datenwissenschaftstechniken ist entscheidend für das effiziente Management, die Analyse und die Speicherung von Daten. Mathematik dient als Rückgrat dieser KI - und Datenwissenschaftsmethoden und bietet eine robuste und analysierbare Grundlage. Insbesondere KI - gesteuerte tiefe neuronale Netze haben herkömmliche Modelle übertroffen und bedeutende Fortschritte erzielt. Dennoch werden ihre mathematischen Grundlagen weiterhin intensiv erforscht. Das Fachgebiet verbindet klassische Mathematik wie harmonische Analyse, Funktionalanalysis und lineare Algebra mit KI und fördert innovative, interdisziplinäre Lösungen für reale Probleme. Wissenschaftler in diesem Bereich formulieren nicht nur mathematische Theorien, sondern arbeiten auch über verschiedene Disziplinen hinweg zusammen und nutzen die Möglichkeiten von KI und Datenwissenschaft, um reale Herausforderungen in einer inter - und transdisziplinären Weise zu bewältigen. Forschungsgruppen in [ CITY ] [ CITY ] beheimatet eine Vielzahl von Forschungsbereichen innerhalb der KI - und Datenwissenschaften, die in einzigartiger Weise zum Gesamtbild beitragen : KI für dynamische Systeme Künstliche Intelligenz ( KI ) hat sich als vielversprechend erwiesen, um dynamische Systeme zu verstehen und vorherzusagen. Durch die Nutzung mathematischer Modelle und Algorithmen entwickeln Forscher in [ CITY ] Methoden, um KI in die Untersuchung komplexer Systeme zu integrieren, von molekularen Systemen bis hin zu biologischen Prozessen. Diese Methoden sollen die Genauigkeit und Effizienz von Vorhersagen verbessern und die Lücke zwischen theoretischer Mathematik und realen Anwendungen schließen. Optimierung für KI Optimierung spielt eine entscheidende Rolle für die Effizienz und Effektivität von KI - Algorithmen. Forscher in [ CITY ] entwickeln fortschrittliche Optimierungstechniken, die speziell auf KI zugeschnitten sind und sicherstellen, dass maschinelle Lernmodelle sowohl genau als auch recheneffizient sind. Diese Techniken sind entscheidend für die Verfeinerung von K",
+      "true_city": "Berlin",
+      "predicted_city": "Hamburg"
+    },
+    {
+      "text": "Bundesweiter Warnstreik Ver. di will Donnerstag in Krankenhäusern und Pflegeheimen streiken Ver. di ruft für Donnerstag zu einem bundesweiten Warnstreik in Kliniken, Pflegeeinrichtungen und Rettungsdiensten auf. Dies teilte die Gewerkschaft in [ CITY ] zum Tarifstreit mit Bund und Kommunen mit. Die Dienstleistungsgewerkschaft Ver. di hat ihre Mitglieder im Tarifstreit des öffentlichen Diensts von Bund und Kommunen für Donnerstag aufgerufen, in Kliniken, Pflegeeinrichtungen und bei Rettungsdiensten die Arbeit niederzulegen. Nach Gewerkschaftsangaben vom Montag sind deutliche Auswirkungen für Patienten zu erwarten. Laut dem Ver. di - Landesbezirk Niedersachsen und Bremen soll nur die Versorgung von Notfällen gesichert sein. Hintergrund ist der Tarifstreit mit Bund und Kommunen. Dort steht Mitte März die nächste Verhandlungsrunde an. Was die Beschäftigten in Krankenhäusern und Pflegeeinrichtungen, in Psychiatrien und im Rettungsdienst jeden Tag für die Gesellschaft leisten, ist den meisten Menschen in diesem Land bewusst, sagte Ver. di - Bundesvorstandsmitglied Sylvia Bühler. Doch die Arbeitgeber ließen diese Anerkennung vermissen, fügte sie hinzu. Sie bezog dies darauf, dass die Arbeitgeber von Bund und Kommunen in der zweiten Runde der Tarifverhandlungen Mitte Februar kein Angebot vorgelegt hätten. Das Ansinnen der Arbeitgeber, eine geringe bis gar keine Lohnerhöhung zu vereinbaren, und noch dazu bei einer überlangen Laufzeit von 36 Monaten, ist eine Provokation, meinte die Gewerkschafterin.",
+      "true_city": "Berlin",
+      "predicted_city": "Hamburg"
+    },
+    {
+      "text": "Klima [ CITY ] liegt in der kühlgemäßigten Klimazone und ist durch ein Seeklima geprägt. Aufgrund der durch vorherrschende Westwinde maritimen Einflüsse ist das Klima im Winter milder, im Sommer kühler als im östlichen Hinterland. Die Jahresdurchschnittstemperatur beträgt 9, 4. Der wärmste Monat ist der Juli mit durchschnittlich 18, 1, der kälteste der Januar mit 1, 6. Temperaturen um die 28 sind im Hochsommer keine Seltenheit. An der Wetterstation Neuwiedenthal wurde ein Maximalwert von 40, 1 ( 20. Juli 2022 ) gemessen. Das absolute Temperaturminimum liegt bei, 1 ( 13. Februar 1940 ). Das Klima ist ganzjährig feucht. Im Laufe eines Jahres fallen durchschnittlich 773 mm Niederschlag, an durchschnittlich 52 Tagen im Jahr herrscht Nebel. Der meiste Regen fällt in den 31 Tagen, die um den 29. Juni liegen ; der wenigste fällt um den 16. April herum. Im Winterhalbjahr kann es sehr stürmisch werden. Sprichwörtlich ist das [ CITY ] er Schmuddelwetter ( regional Schietwedder genannt ).",
+      "true_city": "Hamburg",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Auszeichnungen Zurückgehend auf das [ CITY ] er Stadtrecht des 13. Jahrhunderts dürfen Hanseaten keine Auszeichnungen fremder Herren annehmen. An diese Tradition hält man sich in der Regel bis heute und sie ist insbesondere bei Bediensteten des Staates vorgeschrieben. So lehnte der [ CITY ] er Senator und Bundeskanzler Helmut Schmidt mehrfach die Annahme des Bundesverdienstordens ab. Da [ CITY ] auch selbst keine Orden vergibt, ehrt der Senat seit 1813 Persönlichkeiten mit der Ehrenbürgerwürde als wichtigster Auszeichnung. Daneben bestehen eine Reihe weiterer Auszeichnungen, Medaillen, Ehrentitel und Kulturpreise der Stadt und die Vergabe der traditionellen Portugaleser - Münzen. Weitere Preise sind die Bürgermeister - Stolten - Medaille, Biermann - Ratjen - Medaille, Lessing - Preis, Bach - Preis, Lichtwark - Preis, Fritz - Schumacher - Preis, Hubert - Fichte - Preis, Edwin - Scharff - Preis, Aby - M. - Warburg - Preis, Medaille für treue Arbeit im Dienste des Volkes. Darüber hinaus werden von anderen [ CITY ] er Institutionen oder Stiftungen weitere Auszeichnungen und Preise vergeben.",
+      "true_city": "Hamburg",
+      "predicted_city": "Chemnitz"
+    }
+  ]
+}

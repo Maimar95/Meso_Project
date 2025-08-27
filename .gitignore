@@ -1,0 +1,20 @@
+# Python Cache
+__pycache__
+*.pyc
+
+# Modelle / Gewichte (falls du sie nicht über LFS hostest)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.h5
+
+# Temporäre Dateien
+*.tmp
+*.log
+*.DS_Store
+
+# Virtuelle Umgebungen
+venv/
+test_env/
+env/

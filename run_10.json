@@ -1,0 +1,44 @@
+{
+  "run": 10,
+  "accuracy": 0.9529411764705882,
+  "classification_report": "              precision    recall  f1-score   support\n\n      Berlin       0.93      0.96      0.95        28\n    Chemnitz       0.93      1.00      0.96        26\n     Hamburg       1.00      0.90      0.95        31\n\n    accuracy                           0.95        85\n   macro avg       0.95      0.96      0.95        85\nweighted avg       0.96      0.95      0.95        85\n",
+  "confusion_matrix": [
+    [
+      27,
+      1,
+      0
+    ],
+    [
+      0,
+      26,
+      0
+    ],
+    [
+      2,
+      1,
+      28
+    ]
+  ],
+  "misclassified_samples": [
+    {
+      "text": "Ehrenbürger sind in der Liste der Ehrenbürger von [ CITY ] aufgeführt, in der Stadt geborene Persönlichkeiten in der Liste von Söhnen und Töchtern [ CITY ] s, Biografien von Menschen mit deutlichem Bezug zu [ CITY ] werden in der Kategorie Person ( [ CITY ] ) gesammelt. Die Mitglieder der [ CITY ] er Landesregierungen seit 1948 finden sich in den Auflistungen Liste der Bürgermeister von [ CITY ] und Liste der Senatoren von [ CITY ]. Verschiedene Stadtoriginale sind unter [ CITY ] er Originale zusammengefasst.",
+      "true_city": "Berlin",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Konfessionsstatistik Gemäß dem Zensus 2011 waren 29, 8 % der Einwohner evangelisch, 9, 8 % römisch - katholisch und 60, 4 % waren konfessionslos oder gehörten einer anderen Glaubensgemeinschaft an. Der Anteil der Protestanten und Katholiken an der Gesamtbevölkerung ist seitdem jährlich um circa einen Prozentpunkt gesunken. Am Stichtag 31. Dezember 2023 waren nach Recherchen der Forschungsgruppe Weltanschauungen in Deutschland 19, 9 % ( 380. 930 ) der Einwohner der Stadt evangelisch, 8, 2 % ( 157. 311 ) römisch - katholisch und 71, 7 % waren konfessionsfrei oder gehörten einer sonstigen Glaubensgemeinschaft an. Etwa 8 % ( ungefähr 150. 000 ) der Einwohner sind Muslime.",
+      "true_city": "Hamburg",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "2025 Programme Announced This June, the world of public transport will arrive in [ CITY ] for the most important diary entry for all urban mobility professionals. From 15 - 18 June 2025, the German city will become the very epicentre of global mobility discussions. But how will those conversations be framed? And how do we plan to drive the direction of discussion? There are many milestones along the way as we navigate the road to [ CITY ], and the latest special moment has arrived with the launch of the Summit Programme. Our 2025 Summit will take place under six key tracks : Net Zero Cities, Operations, Lifestyle, People - Centricity, Sustainability Technology. And when expanded they will focus on Driving policies to net zero, Operating according to local needs, Sustainable mobility as a lifestyle, Focus on people and communities, Aligning mobility planning with the SDGs, and Technologies for change. These tracks define our agenda, and the most pressing sector topics will be brought to the table for exchange with our delegates. Featuring Parallel, Plenary, Power, Lunch and Breakfast sessions, the Programme offers something for all sector professionals. And more key moments will be included in the weeks to come! A Full Programme of Activities Displaying the latest innovations, solutions and products, presented and showcased by public transport's top players, the UITP Summit is an immersive four - day experience. Combining a diverse programme of world - class Congress sessions and an outstanding Exhibition, the Summit is the place to be. From the Exhibition and Congress, to",
+      "true_city": "Hamburg",
+      "predicted_city": "Berlin"
+    },
+    {
+      "text": "Persönlichkeiten Die lange Geschichte [ CITY ] s weist eine große Anzahl von wichtigen Personen aus allen Bereichen auf. Die Liste von Persönlichkeiten der Stadt [ CITY ] kann daher nur eine Auswahl ohne Bewertung bieten und steht stellvertretend für die zahllosen ungenannten Menschen, die die Stadt prägten und von ihr geprägt wurden. 86 % der nach Personen benannten Straßen sind in [ CITY ] nach Männern und 14 % nach Frauen benannt.",
+      "true_city": "Hamburg",
+      "predicted_city": "Berlin"
+    }
+  ]
+}

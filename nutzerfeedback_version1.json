@@ -1,0 +1,611 @@
+
+[
+    {
+    "input_text": "Die Berliner Mauer war jahrzehntelang Symbol der Teilung der Stadt und des Kalten Krieges. Heute erinnern zahlreiche Gedenkstätten und Mauermuseen an diese Zeit. Checkpoint Charlie, der bekannteste ehemalige Grenzübergang, ist eine vielbesuchte Touristenattraktion. Die Geschichte der Mauer ist in der ganzen Stadt präsent und wird durch Museen, Mahnmale und erhaltene Mauerabschnitte lebendig gehalten.",
+    "predicted_city": "Berlin", "confidence": 0.6256241202354431,
+    "is_correct": true, "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Der Gendarmenmarkt gilt als einer der schönsten Plätze der Stadt. Er wird von drei beeindruckenden Bauwerken eingerahmt: dem Konzerthaus, dem Deutschen Dom und dem Französischen Dom. Der Platz ist ein beliebter Veranstaltungsort für klassische Konzerte und den Weihnachtsmarkt. Die Architektur des Platzes vereint barocke und klas- sizistische Elemente und spiegelt die kulturelle Bedeutung der Stadt wider.",
+    "predicted_city": "Chemnitz", "confidence": 0.4983602464199066, "is_correct": false,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Der Potsdamer Platz hat sich seit dem Mauerfall zu einem lebendigen Zent- rum mit moderner Architektur entwickelt. Markante Gebäude wie das Sony Center mit sei- nen zeltartigen Glasdächern prägen das Stadtbild. Der Platz bietet zahlreiche Restaurants, Kinos und kulturelle Einrichtungen, darunter das Museum für Film und Fernsehen. Jährlich zieht der Potsdamer Platz viele Besucher an, besonders während der Berlinale, dem inter- nationalen Filmfestival der Stadt.",
+    "predicted_city": "Berlin", "confidence": 0.8539742827415466, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Das Schloss Charlottenburg ist die größte Schlossanlage der Stadt und ein herausragendes Beispiel barocker Architektur. Es wurde ursprünglich als Sommerresidenz für die preußische Königin Sophie Charlotte erbaut. Das Schloss beeindruckt mit prunkvol- len Sälen, kunstvollen Möbeln und einer Schlosskapelle. Der angrenzende Barockgarten lädt zu Spaziergängen ein und bietet Einblicke in die Geschichte der preußischen Monar- chie. Das Schloss ist eine der meistbesuchten Sehenswürdigkeiten der Stadt.",
+    "predicted_city": "Berlin", "confidence": 0.662108302116394, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Die Museumsinsel, ein UNESCO-Weltkulturerbe, beherbergt fünf bedeu- tende Museen mit umfangreichen Kunst- und Kultursammlungen. Dazu gehören das Alte Museum, das Neue Museum, die Alte Nationalgalerie, das Bode-Museum und das Perga- monmuseum. Das Humboldtforum, ein modernes Kultur- und Wissenschaftszentrum, befin- det sich in einem rekonstruierten Schlossgebäude in unmittelbarer Nähe. Die Museumsinsel liegt im Zentrum der Stadt, umgeben von der Spree und dem Lustgarten mit dem Berliner Dom.",
+    "predicted_city": "Berlin", "confidence": 0.7317394018173218, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Das Brandenburger Tor ist das wohl bekannteste Wahrzeichen der Stadt und ein Symbol für die deutsche Wiedervereinigung. Es wurde im späten 18. Jahrhundert im klassizistischen Stil errichtet und besteht aus zwölf dorischen Säulen, die fünf Durchfahr- ten bilden. Die Quadriga, eine Skulptur der Siegesgöttin auf einem vierspännigen Wagen, krönt das Tor. Vor dem Tor liegt der Pariser Platz, umgeben von historischen Gebäuden wie dem Hotel Adlon und der Akademie der Künste. Der Platz ist ein zentraler Ausgangspunkt für viele Sehenswürdigkeiten der Stadt.",
+    "predicted_city": "Berlin", "confidence": 0.6330392360687256, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Die Hauptstadt ist flächenmäßig die größte Stadt Deutschlands und besitzt ein weitverzweigtes Netz aus U- und S-Bahnen, Straßenbahnen und Bussen. Charakteris- tisch sind die vielen Parks und Grünflächen wie der Tiergarten, der Volkspark Friedrichshain oder der Tempelhofer Feld, ein ehemaliger Flughafen, der heute als Freizeitareal dient. Die Stadt wird von der Spree durchflossen und ist von zahlreichen Kanälen, Seen und Brücken geprägt.",
+    "predicted_city": "Berlin", "confidence": 0.9119839668273926, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Die Stadt ist bekannt für ihre lebendige Kulturszene, die von international renommierten Museen und Theatern bis zu alternativen Clubs und Galerien reicht. Entlang der Spree reihen sich historische Bauten, moderne Kunstzentren und Open-Air-Veranstal- tungsorte. Das Nachtleben ist legendär: Clubs wie Berghain, Watergate oder Tresor ziehen Gäste aus aller Welt an. Märkte, Festivals und Straßenfeste spiegeln die multikulturelle Viel- falt der Stadt wider.",
+    "predicted_city": "Berlin", "confidence": 0.8672430515289307,
+    "is_correct": true, "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Ein zentrales Wahrzeichen der Stadt ist ein klassizistisches Tor mit einer bronzenen Quadriga, das im Laufe der Geschichte mehrfach beschädigt, restauriert und als politisches Symbol instrumentalisiert wurde. Während der Teilung verlief unmittelbar vor dem Bauwerk die innerdeutsche Grenze, sodass das Tor zum Sinnbild der Trennung und später der Wiedervereinigung wurde. Heute ist es ein beliebter Treffpunkt für Besucher aus aller Welt und ein Ort nationaler Gedenkfeiern",
+    "predicted_city": "Chemnitz", "confidence": 0.9477795362472534, "is_correct": false,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Die Metropole zeichnet sich durch eine vielfältige Architektur aus, die von klassizistischen Bauten über wilhelminische Gründerzeitfassaden bis hin zu moderner Glasarchitektur reicht. Zu den Wahrzeichen zählen das Fernsehturmhochhaus am Alexan- derplatz, das Reichstagsgebäude mit seiner gläsernen Kuppel, die Museumsinsel mit ihren klassizistischen Museen sowie die Kaiser-Wilhelm-Gedächtniskirche. Die Stadt ist in Be- zirke wie Mitte, Kreuzberg, Charlottenburg und Prenzlauer Berg gegliedert und bietet ein Nebeneinander von Altbauvierteln, Plattenbausiedlungen und zeitgenössischen Architektur- Ikonen",
+    "predicted_city": "Berlin", "confidence": 0.9137285947799683, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im Zentrum der deutschen Hauptstadt erhebt sich ein monumentales Stadt-tor, das als Symbol für Einheit und Freiheit gilt. Das Bauwerk wurde Ende des 18. Jahrhun- derts im Stil des Neoklassizismus errichtet und ist von zwölf dorischen Säulen geprägt, die fünf Durchfahrten bilden. Die mittlere Passage war einst Monarchen vorbehalten. Gekrönt wird das Tor von einer Quadriga: einer Skulptur der Siegesgöttin auf einem vierspännigen Wagen. Das Tor steht am Pariser Platz und markiert den Beginn der berühmten Pracht- straße Unter den Linden. Es wurde zum Schauplatz historischer Ereignisse – von Napole- ons Einzug bis zur Wiedervereinigung Deutschlands",
+    "predicted_city": "Berlin", "confidence": 0.5833072066307068, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Das Panorama der Stadt wird geprägt von einer Mischung aus historischen Kontorhäusern, modernen Glasfassaden und imposanten Kirchen. Direkt an der Elbe erhebt sich ein Konzerthaus mit einem markanten, wellenförmigen Glasdach, das auf einem alten Kaispeicher errichtet wurde. Dieses Bauwerk gilt als eines der Wahrzeichen der Stadt und zieht Besucher aus aller Welt an. Das Gebäude steht in direkter Nachbarschaft zum größten zusammenhängenden Lagerhauskomplex der Welt, der von schiffbaren Kanälen durchzo- gen ist.",
+    "predicted_city": "Hamburg", "confidence": 0.7311530113220215, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Stadt ist Verwaltungssitz eines eigenen Bundeslandes und trägt den Beinamen „Tor zur Welt“. Sie ist Heimat eines internationalen Seegerichtshofs und wichtiger Standort für die Luft- und Raumfahrtindustrie. Das Klima ist durch häufigen Wind und wech- selhaftes Wetter bestimmt, was der Stadt einen unverwechselbaren norddeutschen Cha- rakter verleiht.",
+    "predicted_city": "Hamburg", "confidence": 0.8024771809577942, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Innenstadt wird von einer großen Binnen- und einer Außenalster domi- niert, um die sich elegante Boulevards, Parks und Einkaufsstraßen gruppieren. In den Elb- vororten reihen sich Villen mit Blick auf das Wasser aneinander, während andere Viertel für ihre multikulturelle Lebendigkeit und kreativen Szenen bekannt sind.",
+    "predicted_city": "Hamburg", "confidence": 0.9228619337081909, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Ein bedeutender Teil des Stadtbilds ist von roten Klinkerfassaden und Spei- cherhäusern aus der Gründerzeit geprägt, die heute als UNESCO-Weltkulturerbe gelten. Die Stadt besitzt mehr Brücken als Venedig und Amsterdam zusammen und ist von zahlrei- chen Kanälen und Wasserläufen durchzogen. Der große Seehafen ist ein wichtiger Um- schlagplatz für Waren aus aller Welt.",
+    "predicted_city": "Hamburg", "confidence": 0.8043755888938904,
+    "is_correct": true, "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Stadt ist berühmt für ein Vergnügungsviertel, das international für sein Nachtleben, Theater und Musikclubs bekannt ist. In unmittelbarer Nähe befindet sich ein traditionsreicher Fischmarkt, der jeden Sonntagmorgen Besucher aus aller Welt anzieht. Das Leben in der Stadt ist geprägt von hanseatischer Gelassenheit, Weltoffenheit und einer besonderen Verbindung zum Wasser.",
+    "predicted_city": "Hamburg", "confidence": 0.7274248600006104, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Das Panorama der Stadt wird geprägt von einer Mischung aus historischen Kontorhäusern, modernen Glasfassaden und imposanten Kirchen. Direkt am Wasser erhebt sich ein Konzerthaus mit einem wellenförmigen Dach, das auf einem alten Speichergebäude errichtet wurde und zu den architektonischen Wahrzeichen der Stadt zählt.",
+    "predicted_city": "Chemnitz", "confidence": 0.84485924243927, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Süden der Altstadt erstreckt sich ein weltweit einzigartiges Ensemble aus Lagerhäusern, das auf einer Inselgruppe im Fluss erbaut wurde. Die roten Backsteinbauten mit ihren Giebeln und Türmen stehen auf Holzpfählen und sind von schiffbaren Kanälen durchzogen, die bei Hochwasser direkt mit Booten befahren werden können. Besonders abends spiegeln sich die Lichter der Stadt im Wasser und verleihen dem Viertel eine ge- heimnisvolle Atmosphäre.",
+    "predicted_city": "Chemnitz", "confidence": 0.47025245428085327, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Stadt ist Sitz eines internationalen Seegerichtshofs und ein wichtiger Standort für Luft- und Raumfahrtindustrie. In den Elbvororten finden sich prächtige Villen mit Blick auf das Wasser, während andere Stadtteile für ihre multikulturelle Vielfalt bekannt sind. Das Klima ist geprägt von häufigem Wind und wechselhaftem Wetter, was der Stadt einen unverwechselbaren norddeutschen Charakter verleiht.",
+    "predicted_city": "Hamburg", "confidence": 0.8268000483512878, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Innenstadt ist von einer Vielzahl von Kanälen durchzogen, die von über 2.500 Brücken überspannt werden. Das historische Lagerhausviertel ist auf Holzpfählen er- richtet und Teil des UNESCO-Welterbes. Ein expressionistisches Bürohaus mit spitz zulau- fender Form ist ein architektonisches Highlight. Die Stadt ist bekannt für ihr maritimes Flair, ein lebendiges Nachtleben und einen traditionsreichen Fischmarkt.",
+    "predicted_city": "Chemnitz", "confidence": 0.5115217566490173, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Ein Wahrzeichen der Stadt ist eine barocke Kirche mit einem weithin sicht- baren Turm, der als „Michel“ bekannt ist. Das moderne Konzerthaus mit seiner spektakulä- ren Glasfassade steht auf einem alten Kaispeicher. Die Stadt ist geprägt von Kontorhäusern aus rotem Backstein und zahlreichen historischen Brücken. Jährlich findet ein großes Ha- fenfest statt, das Besucher aus aller Welt anzieht.",
+    "predicted_city": "Hamburg", "confidence": 0.9310795664787292, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Stadt ist in mehrere Bezirke unterteilt, darunter eine Inselgruppe in der Nordsee. Der Hafen ist ein zentraler Wirtschaftsfaktor und erstreckt sich kilometerweit ent- lang eines breiten Flusses. Die Speicherstadt mit ihren roten Backsteinfassaden und die Elbphilharmonie mit ihrem wellenförmigen Dach sind markante Wahrzeichen. Die Begrü- ßung „Moin“ ist hier allgegenwärtig, und der sonntägliche Fischmarkt ist ein beliebtes Ereig- nis.",
+    "predicted_city": "Hamburg", "confidence": 0.9627770185470581, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Zentrum dieser Stadt liegen zwei große Binnengewässer, die von ele- ganten Boulevards und Parks umgeben sind. Das historische Lagerhausviertel, ein UNESCO-Welterbe, besteht aus roten Backsteingebäuden mit neugotischen Giebeln und Türmen, durchzogen von schiffbaren Kanälen. Ein expressionistisches Bürohaus mit spitz zulaufender Form, das an einen Schiffsbug erinnert, ist ein architektonisches Highlight. Die Stadt ist ein bedeutendes Zentrum für Handel, Kultur und Medien",
+    "predicted_city": "Hamburg", "confidence": 0.6542384028434753, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Diese norddeutsche Metropole ist bekannt für ihren riesigen Seehafen, der zu den größten Europas zählt. Die Stadt ist durchzogen von zahlreichen Kanälen und Flee- ten, die von über 2.500 Brücken überspannt werden – mehr als in Venedig und Amsterdam zusammen. Ein historisches Lagerhausviertel aus rotem Backstein, das auf Holzpfählen er- richtet wurde, prägt das Stadtbild. Ein modernes Konzerthaus mit wellenförmigem Glasdach gilt als architektonisches Wahrzeichen. Das bunte Vergnügungsviertel zieht Nachtschwär- mer aus aller Welt an.",
+    "predicted_city": "Hamburg", "confidence": 0.8645183444023132, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Herzen der Stadt erhebt sich eine monumentale Porträtbüste, die als zweitgrößte ihrer Art weltweit gilt. Das Karl-Marx-Monument, von den Einheimischen liebe- voll „Nischel“ oder „Kopp“ genannt, wurde 1971 enthüllt und erinnert an die Zeit, als die Stadt den Namen des berühmten Philosophen trug. Das 40 Tonnen schwere Bronze-Denk- mal steht auf einem Granitsockel, hinter dem der Schriftzug „Proletarier aller Länder verei- nigt  euch!“  in  mehreren  Sprachen  prangt.  Der  zentrale  Marktplatz  ist  von  zwei Rathausgebäuden geprägt: Das Alte Rathaus stammt aus dem 15. Jahrhundert, das Neue Rathaus wurde Anfang des 20. Jahrhunderts errichtet und ist für seine Rolandfigur be- kannt.",
+    "predicted_city": "Chemnitz", "confidence": 0.9751226902008057, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Die Innenstadt ist von einer Mischung aus historischen und modernen Bau- werken geprägt. Besonders auffällig ist der Rote Turm, ein Überbleibsel der mittelalterlichen Stadtbefestigung mit Ursprüngen im 12. Jahrhundert. Im Gründerzeitviertel Kaßberg reihen sich prachtvolle Fassaden aus der Zeit der Industrialisierung aneinander. Zu den kulturellen Highlights zählen das Staatliche Museum für Archäologie (smac), das Museum Gunzenhau- ser mit moderner Kunst sowie das Industriemuseum. Der Theaterplatz wird von Opernhaus, St. Petrikirche und König-Albert-Museum eingerahmt und ist ein Zentrum für Kunst und Mu- sik.",
+    "predicted_city": "Chemnitz", "confidence": 0.9776246547698975, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Wer das Grüne sucht, findet in der Stadt zahlreiche Parks und Naherho- lungsgebiete. Der Küchwaldpark mit dem Kosmonautenzentrum Sigmund Jähn und der Par- keisenbahn ist besonders bei Familien beliebt. Der Schloßteich lädt zum Spazieren, Rudern und Entspannen ein. Im Botanischen Garten und im arktisch-alpinen Garten der Walter- Meusel-Stiftung werden seltene Pflanzenarten präsentiert. Im Süden beginnen die Ausläu- fer des Erzgebirges, die zu Wanderungen und Ausflügen einladen.",
+    "predicted_city": "Chemnitz", "confidence": 0.9826479554176331, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Zu den ältesten Bauwerken der Stadt zählt der Rote Turm, dessen Ge- schichte bis ins 12. Jahrhundert zurückreicht. Ein weiteres Wahrzeichen ist das Wasser- schloss Klaffenbach, das mit seinem Renaissanceportal und dem Schlosspark Besucher anzieht. Die Villa Esche, ein Meisterwerk des Jugendstils von Henry van de Velde, steht für die industrielle und kulturelle Blütezeit der Stadt. In der Umgebung locken das Besucher- bergwerk Felsendome Rabenstein und die Burg Rabenstein als Ausflugsziele.",
+    "predicted_city": "Chemnitz", "confidence": 0.9714837670326233, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Die Stadt wurde zur Europäischen Kulturhauptstadt 2025 gekürt. Das kultu- relle Leben ist geprägt von Museen, Galerien und Festivals. Der Rosenhof, die Galerie Oben und zahlreiche Veranstaltungen unterstreichen die Rolle der Stadt als Zentrum für Kunst, Design und Kreativwirtschaft. Die Vergangenheit als Industriemetropole spiegelt sich in der Architektur, den Museen und der offenen, modernen Atmosphäre wider.",
+    "predicted_city": "Chemnitz", "confidence": 0.9132038950920105, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Im Jahr 2025 steht die Stadt im Mittelpunkt Europas: Als Kulturhauptstadt werden rund 100 Projekte aus Populärkultur, Musik, Kunst, Sport und Design umgesetzt – viele davon in Zusammenarbeit mit Akteurinnen und Akteuren aus der gesamten Region, dem Erzgebirge, Mittelsachsen und dem Zwickauer Land. Das Motto „C the Unseen“ lädt dazu ein, verborgene Potenziale, unentdeckte Orte und bislang unbekannte Macherinnen und Macher zu entdecken. Die Stadt präsentiert sich als lebendiger, gastfreundlicher und überraschender Ort mit einer langen Industrie- und Kulturgeschichte",
+    "predicted_city": "Chemnitz", "confidence": 0.9845917224884033, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Zu den herausragenden Projekten im Kulturhauptstadtjahr zählen der Kunst- und Skulpturenweg „Purple Path“ sowie die Initiative „Makers, Business & Arts“. Der Purple Path verbindet 30 Kunstwerke in Chemnitz und der gesamten Kulturregion, darunter ikonische Skulpturen, Installationen und künstlerische Interventionen. Die Makerhubs sind neue Treffpunkte, an denen Handwerk, Unternehmertum und Kunst zusammenkommen und innovative Ideen entstehen. Diese Projekte fördern Austausch, Kreativität und die Mit- machkultur in der Stadt",
+    "predicted_city": "Chemnitz", "confidence": 0.9763591289520264, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Das Kulturhauptstadtjahr ist auch ein großes Stadtentwicklungsprojekt: Auf 30 sogenannten Interventionsflächen werden Orte in Chemnitz neu gedacht und gestaltet –von der traditionsreichen Hartmann-Fabrik über einen neuen Stadtteilpark an einem rena- turierten Bach bis hin zu Festplätzen in ländlichen Stadtteilen. Ziel ist es, neue soziale Räume zu schaffen, vergessene Orte zu beleben und die Stadt zukunftsfähig zu machen. Die Bürgerinnen und Bürger sind aktiv an der Gestaltung beteiligt und tragen dazu bei, Chemnitz als offene, vielfältige Stadt zu präsentieren",
+    "predicted_city": "Chemnitz", "confidence": 0.9780811667442322, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Der Auftakt zum Kulturhauptstadtjahr wurde am 18. Januar 2025 mit einer großen Eröffnungsparty gefeiert, zu der rund 80.000 Menschen aus dem In- und Ausland in die Innenstadt kamen. Das Fest bot ein vielfältiges Bühnenprogramm, Ausstellungen und Aktionen, die den europäischen Geist und den gesellschaftlichen Zusammenhalt der Stadt unterstrichen. Die Veranstaltungen im Kulturhauptstadtjahr sind geprägt von internationaler Zusammenarbeit, Diversität und Inklusion",
+    "predicted_city": "Chemnitz", "confidence": 0.852609395980835, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Chemnitz versteht sich als „Stadt der Macherinnen und Macher“. Die Mit- machkultur und das Engagement der Bürgerinnen und Bürger stehen im Mittelpunkt vieler Projekte. Besonders die Kooperationen mit Städten in Tschechien und Polen betonen den europäischen Austausch und die Offenheit der Stadt. Mit dem Kulturhauptstadtjahr wird Chemnitz als kreativer, innovativer und zukunftsorientierter Standort sichtbar – sowohl in Deutschland als auch international",
+    "predicted_city": "Chemnitz", "confidence": 0.9413880109786987, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Im Jahr 2025 steht diese Stadt im Fokus Europas als Kulturhauptstadt. Un- ter dem Motto „C the Unseen“ werden zahlreiche Projekte umgesetzt, die verborgene Po- tenziale und unbekannte Orte sichtbar machen. Die Stadt verbindet ihre lange Industriege- schichte mit moderner Kreativität und Innovation. Neue Treffpunkte für Kunst, Handwerk und Unternehmertum entstehen, die den Austausch und die Mitmachkultur fördern.",
+    "predicted_city": "Chemnitz", "confidence": 0.8739928603172302, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Ein besonderer Kunstweg führt durch die Stadt und ihre Region, der „Purple Path“. Er verbindet rund 30 Kunstwerke, darunter Skulpturen, Installationen und künstleri- sche Interventionen, die in der Stadt und der umliegenden Region verteilt sind. Dieser Weg lädt Bewohner und Besucher ein, die kulturelle Vielfalt und das kreative Potenzial der Ge- gend zu entdecken.",
+    "predicted_city": "Chemnitz", "confidence": 0.8310613036155701, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Die Stadt nutzt das Kulturhauptstadtjahr, um 30 besondere Orte neu zu ge- stalten. Diese sogenannten Interventionsflächen reichen von ehemaligen Fabrikgeländen über renaturierte Bachläufe bis hin zu Festplätzen in ländlichen Stadtteilen. Ziel ist es, sozi- ale Räume zu schaffen, vergessene Orte zu beleben und die Stadt zukunftsfähig zu ma- chen. Die Bürgerinnen und Bürger sind aktiv in den Prozess eingebunden.",
+    "predicted_city": "Chemnitz", "confidence": 0.952081024646759, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Der Start des Kulturhauptstadtjahres wurde mit einer großen Feier began- gen, bei der zehntausende Menschen aus dem In- und Ausland zusammenkamen. Die Ver- anstaltungen betonen den europäischen Geist, Diversität und Inklusion. Die Stadt präsen- tiert sich als offener und gastfreundlicher Ort, der gesellschaftlichen Zusammenhalt und kul- turellen Austausch fördert.",
+    "predicted_city": "Chemnitz", "confidence": 0.8526401519775391, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Die Stadt versteht sich als „Stadt der Macher:innen“ und setzt auf Mitmach- kultur und Engagement der Bevölkerung. Besonders die Zusammenarbeit mit Nachbarlän- dern unterstreicht die europäische Vernetzung. Das Kulturhauptstadtjahr macht die Stadt als kreativen und innovativen Standort sichtbar – national und international.",
+    "predicted_city": "Chemnitz", "confidence": 0.8248343467712402,
+    "is_correct": true, "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Die Stadt hat sich von einem traditionsreichen Zentrum des Maschinenbaus und der Textilindustrie zu einem Ort für Kreativwirtschaft und Innovation gewandelt. Histori- sche Fabrikgebäude werden heute als Ateliers, Start-up-Hubs und Veranstaltungsorte ge- nutzt. Die Verbindung von Industriearchitektur und zeitgenössischer Kunst prägt das Stadt- bild und zieht Kulturschaffende aus dem In- und Ausland an.",
+    "predicted_city": "Chemnitz", "confidence": 0.9257053136825562, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Im Zentrum steht eine monumentale Skulptur, die als „Nischel“ bekannt ist und zu den größten Porträtbüsten Europas zählt. In unmittelbarer Nähe befinden sich zwei Rathausgebäude – eines aus der Spätgotik, das andere aus der Gründerzeit. Ein mittelal- terlicher Turm und ein Renaissance-Schloss mit Wassergraben ergänzen das Ensemble historischer Wahrzeichen.",
+    "predicted_city": "Chemnitz", "confidence": 0.9473234415054321, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Das größte zusammenhängende Gründerzeitviertel Deutschlands prägt das westliche Stadtbild mit prachtvollen Fassaden, Jugendstil-Details und breiten Alleen. Cafés, Galerien und kleine Läden beleben die Straßen. In anderen Vierteln wechseln sich moderne Architektur, Nachkriegsbauten und grüne Parks ab.",
+    "predicted_city": "Chemnitz", "confidence": 0.5249027013778687, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Die Stadt ist ein bedeutender Hochschulstandort mit einer Technischen Uni- versität und mehreren Forschungsinstituten. Innovationen aus Maschinenbau, Automobil- zulieferung und Mikrosystemtechnik werden hier entwickelt. Ein modernes Science Center und ein Museum für Archäologie zählen zu den beliebtesten Ausflugszielen.",
+    "predicted_city": "Chemnitz", "confidence": 0.7759872674942017, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Große Parks, ein beliebter Stadtwald mit Parkeisenbahn und ein zentral gelegener Teich bieten vielfältige Freizeitmöglichkeiten. Botanische Gärten und ein arktisch- alpiner Garten präsentieren seltene Pflanzenarten. Die Nähe zu Mittelgebirgen lädt zu Wan- derungen und Ausflügen ins Grüne ein.",
+    "predicted_city": "Chemnitz", "confidence": 0.9564439058303833, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Im Jahr 2025 steht eine ostdeutsche Industriestadt im Mittelpunkt Europas. Rund 100 Projekte aus Populärkultur, Musik, Kunst, Sport und Design entstehen in Zusam- menarbeit mit Akteurinnen und Akteuren aus der Stadt und der umliegenden Region. Im Fokus stehen das Engagement der Bürgerinnen und Bürger sowie die Aktivierung und Stär- kung der Zivilgesellschaft. Viele Projekte fördern das Zusammenwirken verschiedener Ge- nerationen, setzen auf Diversität und Inklusion und stärken die Kooperationen mit Nachbar- ländern wie Tschechien und Polen",
+    "predicted_city": "Chemnitz", "confidence": 0.9600520133972168, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Das Motto „C the Unseen“ lädt dazu ein, verborgene Potenziale und bislang unbekannte Orte zu entdecken. Zahlreiche sogenannte Interventionsflächen werden im Kul- turhauptstadtjahr neu belebt: Von einer traditionsreichen Fabrik, die zum Besucherzentrum wird, über einen neuen Stadtteilpark an einem renaturierten Bach bis hin zu Festplätzen in ländlichen Stadtteilen. Feste, Workshops und Kunstaktionen verwandeln diese Orte in so- ziokulturelle Gemeinschaftsräume und machen sie für die Stadtgesellschaft neu erlebbar",
+    "predicted_city": "Chemnitz", "confidence": 0.9253144860267639, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Zu den Flaggschiffprojekten zählen neue Treffpunkte für Kreative, Hand- werker und Unternehmer, die als Makerhubs bezeichnet werden. Hier entstehen innovative Ideen und Gemeinschaftsprojekte. Ein Kunst- und Skulpturenweg mit dem Namen „Purple Path“ verbindet rund 30 Kunstwerke – von ikonischen Skulpturen bis zu großformatigen Installationen – und zieht sich durch die Stadt und die gesamte Kulturregion",
+    "predicted_city": "Chemnitz", "confidence": 0.8065918684005737, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Das Kulturhauptstadtjahr begann mit einer großen Eröffnungsparty, an der rund 80.000 Menschen aus dem In- und Ausland teilnahmen. Die Veranstaltungen im Fest- jahr sind geprägt von europäischem Austausch, internationaler Zusammenarbeit und dem Ziel, einen Raum der kulturellen Vielfalt und Verständigung zu schaffen. Das Programm reicht von Kunstausstellungen und Musikfestivals über Theater- und Tanzprojekte bis hin zu Stadtteilinitiativen und Mitmachaktionen",
+    "predicted_city": "Chemnitz", "confidence": 0.8557316064834595, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Die Rolle als Kulturhauptstadt ist auch ein Stadtentwicklungsprojekt: Insge- samt 30 verschiedene Orte werden langfristig umgestaltet, um neue soziale und kulturelle Räume zu schaffen. Das Budget für das Programm und die nachhaltige Entwicklung der Stadt liegt bei über 100 Millionen Euro, wovon der Großteil aus Fördermitteln und Partner- schaften stammt. Ziel ist es, die Stadt als lebendigen, gastfreundlichen und überraschenden Ort in Europa zu positionieren",
+    "predicted_city": "Chemnitz", "confidence": 0.8341684341430664,
+    "is_correct": true, "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Im Jahr 2025 steht eine ostdeutsche Großstadt im Zentrum des europäi- schen Kulturgeschehens. Über 150 Projekte und mehr als 1.000 Veranstaltungen werden gemeinsam mit 38 Kommunen aus der Region, dem Erzgebirge, Mittelsachsen und dem Zwickauer Land umgesetzt. Das sogenannte Regionalschaufenster im Stadtzentrum macht die Vielfalt der Region sichtbar: Auf zehn Stelen präsentieren sich alle beteiligten Städte und Gemeinden mit Informationen, Veranstaltungshinweisen und digitalen Angeboten. Zwei der zentralen Hauptprojekte sind ein Kunst- und Skulpturenweg, der die gesamte Region verbindet, und ein Netzwerk für Kreative, Handwerk und Unternehmertum.",
+    "predicted_city": "Chemnitz", "confidence": 0.9841187000274658, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Die Rolle als Kulturhauptstadt ist auch ein umfassendes Stadtentwicklungs- projekt. Auf insgesamt 30 sogenannten Interventionsflächen werden Orte in der Stadt und Region neu gestaltet – von einer traditionsreichen Fabrik, die zum Besucherzentrum wird, über einen neuen Stadtteilpark an einem renaturierten Bach bis hin zu Festplätzen in länd- lichen Stadtteilen. Ziel ist es, vergessene Orte zu beleben, neue soziale Räume zu schaffen und nachhaltige Impulse für die Zukunft zu setzen. Das Gesamtbudget für das Programm und die Entwicklung dieser Flächen beträgt rund 116 Millionen Euro, wovon etwa 70 Prozent aus Fördermitteln und Partnerschaften stammen.",
+    "predicted_city": "Chemnitz", "confidence": 0.9407716989517212, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Der Start des Kulturjahres wurde am 18. Januar 2025 mit einer großen Feier begangen, zu der schätzungsweise 80.000 Menschen aus dem In- und Ausland in die In- nenstadt kamen. Das Fest bot ein vielfältiges Bühnenprogramm, Ausstellungen und Aktio- nen, die den europäischen Geist und die Offenheit der Stadt unterstrichen. Im Laufe des Jahres werden zahlreiche Events, Festivals und Kunstprojekte die kulturelle Vielfalt und die europäische Vernetzung der Stadtgesellschaft sichtbar machen.",
+    "predicted_city": "Chemnitz", "confidence": 0.9357320070266724, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Zu den Leuchtturmprojekten des Kulturjahres gehört ein Kunst- und Skulp- turenweg, der unter dem Namen „Purple Path“ rund 30 Kunstwerke in der Stadt und Region verbindet. Ein weiteres zentrales Projekt ist ein Netzwerk für Kreative, Handwerker und Un- ternehmer, das neue Treffpunkte und Austauschmöglichkeiten schafft. Diese Initiativen för- dern Innovation, Kreativität und die Mitmachkultur – und machen die Stadt zu einem leben- digen, gastfreundlichen und überraschenden Ort im Herzen Europas.",
+    "predicted_city": "Chemnitz", "confidence": 0.9386283755302429, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Ein breit angelegtes Beteiligungsprojekt lädt lokale und internationale Ak- teurinnen und Akteure dazu ein, Ideen und Projekte zu entwickeln, die sich mit Themen wie Demokratie, Teilhabe und europäischer Zusammenarbeit beschäftigen. Die Programme richten sich an alle Generationen und setzen auf Kooperationen mit Nachbarländern wie Polen und Tschechien. Ziel ist es, die Stadt als Ort des Austauschs, der Vielfalt und der europäischen Identität zu stärken.",
+    "predicted_city": "Chemnitz", "confidence": 0.8807716369628906, "is_correct": true,
+    "actual_city": "Chemnitz"
+    },
+    {
+    "input_text": "Im Jahr 2025 feiert die Hauptstadt gleich mehrere bedeutende Jubiläen: Die Museumsinsel blickt auf 200 Jahre Geschichte zurück und würdigt dies mit einem großen Festprogramm und Sonderausstellungen in den weltberühmten Museen. Die East Side Gal- lery, das längste erhaltene Teilstück der ehemaligen Mauer, begeht ihr 35-jähriges Beste- hen mit Kunstaktionen und Führungen entlang der bemalten Betonsegmente. Zudem jährt sich das Ende des Zweiten Weltkriegs zum 80. Mal – zahlreiche Gedenkveranstaltungen und Ausstellungen setzen sich mit der Geschichte der Stadt auseinander",
+    "predicted_city": "Berlin", "confidence": 0.8695652484893799, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Die Stadt bleibt auch 2025 ein Magnet für Kunst- und Kulturliebhaber. Die Berlin Art Week im September präsentiert zeitgenössische Kunst an über 100 Orten, darun- ter Museen, Galerien, Projekträume und Privatsammlungen. Das Festival bietet ein vielfäl- tiges Programm aus Ausstellungen, Performances und Diskussionsrunden. Nationale und internationale Künstler:innen prägen das Bild der Stadt, die für ihre offene, experimentier- freudige Kunstszene bekannt ist",
+    "predicted_city": "Berlin", "confidence": 0.7615789175033569, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Die Freie Szene der Stadt profitiert 2025 erneut vom Hauptstadtkulturfonds, der mit über sechs Millionen Euro zahlreiche Projekte in den Bereichen Musik, Theater, Bildende Kunst und Film fördert. Zu den geförderten Initiativen zählen unter anderem die Neuköllner Oper, das RambaZamba Theater, das Purple Tanzfestival und das Filmfest FrauenWelten. Trotz Einsparungen im städtischen Haushalt bleibt der Fonds ein zentrales Instrument zur Sicherung der kulturellen Vielfalt und Innovationskraft der Stadt",
+    "predicted_city": "Berlin", "confidence": 0.817049503326416, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Der Kulturzug zwischen der Hauptstadt und Wrocław (Breslau) feiert 2025 sein zehnjähriges Bestehen. Unter dem Motto „Expedition Europa Ekspedycja“ steht das Programm ganz im Zeichen von grenzüberschreitendem Austausch, Reisen und Forschen. Der Zug verbindet nicht nur zwei Städte, sondern auch Künstler:innen, Kulturschaffende und Publikum aus Deutschland und Polen",
+    "predicted_city": "Berlin", "confidence": 0.5045341849327087, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im Juni 2025 locken zahlreiche Veranstaltungen Besucher:innen in die Stadt. Das Museumsinselfest bietet Musik, Führungen und Aktionen für die ganze Familie. Das Philharmoniker-Waldbühnenkonzert zählt zu den musikalischen Höhepunkten des Sommers. Überall in der Stadt finden Open-Air-Festivals, Straßenfeste und Kulturveranstal- tungen statt, die das urbane Lebensgefühl und die Vielfalt der Hauptstadt widerspiegeln",
+    "predicted_city": "Berlin", "confidence": 0.8419016003608704, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im Jahr 2025 steht die Hauptstadt ganz im Zeichen bedeutender Jubiläen: Die Museumsinsel feiert ihr 200-jähriges Bestehen mit Sonderausstellungen und einem gro- ßen Festprogramm. Die East Side Gallery, das längste erhaltene Teilstück der Berliner Mauer, wird 35 Jahre alt und lädt mit Kunstaktionen und Führungen zum Entdecken ein. Auch das Ende des Zweiten Weltkriegs jährt sich zum 80. Mal – zahlreiche Gedenkveran- staltungen und Ausstellungen setzen sich mit der wechselvollen Geschichte der Stadt aus- einander",
+    "predicted_city": "Berlin", "confidence": 0.8596066236495972, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im Juni 2025 finden zahlreiche Events statt, die Besucher aus aller Welt anziehen: Das Museumsinselfest bietet Musik, Führungen und Aktionen für die ganze Fa- milie. Das Philharmoniker-Waldbühnenkonzert zählt zu den musikalischen Höhepunkten des Berliner Sommers. Über die ganze Stadt verteilt gibt es Open-Air-Festivals, Straßen- feste und Kulturveranstaltungen, die das vielfältige urbane Lebensgefühl widerspiegeln",
+    "predicted_city": "Berlin", "confidence": 0.8343313932418823, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Die Berlin Art Week präsentiert vom 10. bis 14. September 2025 zeitgenös- sische Kunst an über 100 Orten in der ganzen Stadt. Museen, Ausstellungshäuser, Messen, Privatsammlungen und zahlreiche Galerien bieten ein vielfältiges Programm aus Ausstel- lungen, Performances und Diskussionsrunden. Die Berlin Art Week ist der größte Zusam- menschluss bedeutender Akteur:innen zeitgenössischer Kunst in der Hauptstadt und unter- streicht die internationale Strahlkraft der Berliner Kunstszene",
+    "predicted_city": "Berlin", "confidence": 0.8593911528587341, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Trotz Einsparungen im Kulturhaushalt bleibt der Hauptstadtkulturfonds ein zentrales Instrument zur Förderung der freien Szene. Für 2025 wurden 6,2 Millionen Euro an 70 Projekte vergeben, darunter Festivals wie das Purple Tanzfestival, das Filmfest Frau- enWelten, die Neuköllner Oper, das RambaZamba Theater und Ausstellungen in C/O Ber- lin. Die Förderung ermöglicht es, innovative und diverse Kulturprojekte in allen künstleri- schen Sparten umzusetzen",
+    "predicted_city": "Berlin", "confidence": 0.8751295208930969, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Der Kulturzug zwischen der Hauptstadt und Wrocław (Breslau) feiert 2025 sein zehnjähriges Bestehen. Unter dem Motto „Expedition Europa Ekspedycja“ steht das Programm in diesem Jahr ganz im Zeichen von grenzüberschreitendem Austausch, Reisen und Forschen. Der Kulturzug verbindet nicht nur zwei Städte, sondern auch Künstler:innen, Kulturschaffende und Publikum aus Deutschland und Polen.",
+    "predicted_city": "Chemnitz", "confidence": 0.5247292518615723, "is_correct": false,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im September 2025 wird die Hauptstadt wieder zum Zentrum der internati- onalen Kunstszene. Die Berlin Art Week, die vom 10. bis 14. September stattfindet, vereint über 100 Partnerinstitutionen – von Museen und Ausstellungshäusern über Messen und Galerien bis zu Projekträumen und Privatsammlungen. Das Festival bietet ein vielfältiges Programm aus Ausstellungen, Performances und Diskussionsrunden. Für die Sektion „Fea- tured“ können bis Ende Mai 2025 innovative Projektinitiativen eingereicht werden, um die künstlerische Vielfalt der Stadt zu zeigen",
+    "predicted_city": "Berlin", "confidence": 0.8570564389228821, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Trotz erheblicher Einsparungen im Landeshaushalt bleibt der Hauptstadt- kulturfonds ein zentrales Förderinstrument für Berlins freie Szene. 2025 werden 70 Projekte mit insgesamt 6,2 Millionen Euro unterstützt – darunter das Purple Tanzfestival, das Filmfest FrauenWelten, die Neuköllner Oper, das RambaZamba Theater und Ausstellungen in C/O Berlin. Die Förderung ermöglicht es, innovative und diverse Kulturprojekte in allen künstle- rischen Sparten umzusetzen und die kulturelle Vielfalt der Stadt zu sichern",
+    "predicted_city": "Berlin", "confidence": 0.8702470660209656, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Der Berliner Sommer 2025 ist geprägt von großen Open-Air-Veranstaltun- gen und Festivals. Das Museumsinselfest bietet Musik, Führungen und Aktionen für die ganze Familie. Das Philharmoniker-Waldbühnenkonzert zählt zu den musikalischen Höhe- punkten des Jahres. Über die ganze Stadt verteilt finden Straßenfeste, Kulturveranstaltun- gen und Open-Air-Festivals statt, die das urbane Lebensgefühl und die Vielfalt der Haupt- stadt widerspiegeln",
+    "predicted_city": "Berlin", "confidence": 0.8882692456245422, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "2025 ist für die Hauptstadt ein Jahr der Jubiläen: Die Museumsinsel feiert ihr 200-jähriges Bestehen, die East Side Gallery wird 35 Jahre alt. Beide Orte stehen im Zentrum von Sonderausstellungen, Kunstaktionen und Festveranstaltungen. Zudem wird das Ende des Zweiten Weltkriegs mit zahlreichen Gedenkveranstaltungen und Ausstellun- gen gewürdigt, die die bewegte Geschichte der Stadt thematisieren",
+    "predicted_city": "Berlin", "confidence": 0.8337814807891846, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Der Kulturzug zwischen Berlin und Wrocław feiert 2025 sein zehnjähriges Bestehen. Unter dem Motto „Expedition Europa Ekspedycja“ steht das Programm im Zei- chen von grenzüberschreitendem Austausch, Reisen und Forschen. Der Kulturzug verbin- det Künstler:innen, Kulturschaffende und Publikum aus Deutschland und Polen und ist ein Symbol für die internationale Offenheit der Stadt",
+    "predicted_city": "Berlin", "confidence": 0.5065550804138184, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im Jahr 2025 feiert die weltberühmte Museumsinsel im Herzen der Haupt- stadt ihr 200-jähriges Bestehen. Das UNESCO-Welterbe in der historischen Mitte beher- bergt fünf große Museen mit Schätzen aus 6.000 Jahren Menschheitsgeschichte, darunter die berühmte Büste der Nofretete. Das Jubiläum wird mit zahlreichen Veranstaltungen, Aus- stellungen, Konzerten und Kinoabenden über das ganze Jahr hinweg gefeiert. Im Juli 1825 begann der Bau des Alten Museums, das den Grundstein für das heutige Ensemble legte. Besucher erwartet ein vielseitiges Festprogramm, das die Bedeutung der Museumsinsel für die Stadt und die Weltkultur würdigt",
+    "predicted_city": "Berlin", "confidence": 0.7510546445846558,
+    "is_correct": true, "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Nach sieben Jahren Sanierung wurde das Lustschloss auf der idyllischen Pfaueninsel im Mai 2025 wiedereröffnet. Das im 18. Jahrhundert errichtete Schloss war einst Rückzugsort für König Friedrich Wilhelm II. und seine Geliebte. Die romantische Insel mit ihren frei lebenden Pfauen und alten Bäumen ist ein beliebtes Ausflugsziel. Die Wieder- eröffnung wird von kulturellen Veranstaltungen und Führungen begleitet, die die Geschichte und die besondere Atmosphäre dieses Ortes erlebbar machen",
+    "predicted_city": "Chemnitz", "confidence": 0.73589688539505, "is_correct": false,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Einer der schönsten Plätze der Stadt, der Gendarmenmarkt, wurde zwei Jahre lang umfassend restauriert und ist seit März 2025 wieder für die Öffentlichkeit zu- gänglich. Mit dem Konzerthaus, dem Deutschen Dom und dem Französischen Dom bietet der Platz drei architektonische und kulturelle Höhepunkte. Zum Frühlingsbeginn wird die Wiedereröffnung mit Konzerten und Veranstaltungen gefeiert. Der Gendarmenmarkt bleibt ein zentraler Treffpunkt für Berliner:innen und Gäste aus aller Welt",
+    "predicted_city": "Berlin", "confidence": 0.8216863870620728, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Der Sommer 2025 ist in Berlin geprägt von zahlreichen Open-Air-Events: Die Fête de la Musique am 21. Juni bringt Musiker:innen aller Stilrichtungen auf die Straßen, Plätze und Parks der Stadt. Das Open-Air-Konzert der Staatsoper auf dem Bebelplatz sowie das Saisonabschlusskonzert der Berliner Philharmoniker in der Waldbühne sind weitere mu- sikalische Höhepunkte. Auch das Lollapalooza-Festival und das Musikfest Berlin locken mit internationalen Stars und vielfältigen Konzerten Besucher:innen aus aller Welt an",
+    "predicted_city": "Berlin", "confidence": 0.9015894532203674, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im Juni findet der Karneval der Kulturen statt, ein viertägiges Straßenfest mit multikulturellen Umzügen, das die kulturelle Offenheit und Diversität der Stadt feiert. Zu den sportlichen Highlights zählt das WTA 500-Tennisturnier im Steffi-Graf-Stadion, bei dem die weltbesten Spielerinnen antreten. Die Stadt bietet zudem zahlreiche Food-Festivals, Märkte und Open-Air-Events, die das bunte, internationale Lebensgefühl Berlins widerspie- geln",
+    "predicted_city": "Berlin", "confidence": 0.5831294655799866, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Am 28. Juni 2025 lädt die Lange Nacht der Wissenschaften dazu ein, sonst nicht zugängliche Archive, Labore und Forschungseinrichtungen zu entdecken. Im Septem- ber findet das Internationale Literaturfestival statt, bei dem über 100 Autor:innen aus aller Welt ihre Werke präsentieren. Der Tag des offenen Denkmals im September ermöglicht Einblicke in sonst verschlossene historische Orte der Stadt",
+    "predicted_city": "Chemnitz", "confidence": 0.9239715933799744, "is_correct": false,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im Jahr 2025 feiert das UNESCO-Welterbe in der historischen Mitte der Hauptstadt ein großes Jubiläum: 200 Jahre Museumsinsel. Mit Ausstellungen, Konzerten, Kinoabenden und Sonderveranstaltungen werden die berühmten Museen und ihre Schätze aus 6.000 Jahren Menschheitsgeschichte gewürdigt. Das Alte Museum, das 1825 den Grundstein legte, steht dabei besonders im Fokus. Besucherinnen und Besucher erwartet ein vielseitiges Festprogramm über das ganze Jahr hinweg",
+    "predicted_city": "Berlin", "confidence": 0.8572693467140198, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Nach sieben Jahren Sanierung wurde das Lustschloss auf der Pfaueninsel im Mai 2025 wiedereröffnet. Die romantische Insel mit ihren frei lebenden Pfauen und alten Bäumen ist ein beliebtes Ausflugsziel. Das Schloss, einst Rückzugsort für König Friedrich Wilhelm II., kann nun wieder besichtigt werden und wird von kulturellen Veranstaltungen begleitet",
+    "predicted_city": "Chemnitz", "confidence": 0.6688446998596191, "is_correct": false,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Einer der schönsten Plätze der Stadt, der Gendarmenmarkt, ist seit März 2025 nach umfassender Restaurierung wieder zugänglich. Mit Konzerthaus, Deutschem Dom und Französischem Dom bietet der Platz drei architektonische und kulturelle Höhe- punkte. Die Wiedereröffnung wird mit Konzerten und Festen gefeiert und macht den Gen- darmenmarkt erneut zum zentralen Treffpunkt für Berliner:innen und Gäste",
+    "predicted_city": "Berlin", "confidence": 0.7110113501548767, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im Juni 2025 findet wieder der Karneval der Kulturen statt – ein viertägiges Straßenfest mit multikulturellen Umzügen, das die kulturelle Offenheit und Diversität der Stadt feiert. Zu den weiteren Sommerhighlights zählen die Fête de la Musique am 21. Juni, das Open-Air-Konzert der Staatsoper auf dem Bebelplatz und das Saisonabschlusskonzert der Berliner Philharmoniker in der Waldbühne mit Gustavo Dudamel",
+    "predicted_city": "Berlin", "confidence": 0.7241597771644592, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Berlin bleibt 2025 ein Hotspot für Musikfans: Internationale Stars wie Billie Eilish treten in der Uber Arena auf, Nina Chuba begeistert in der Columbiahalle, und das Lollapalooza-Festival bringt im Spätsommer ein vielfältiges Line-up auf die Bühnen der Stadt. Das Musikfest Berlin eröffnet gemeinsam mit den Berliner Philharmonikern die neue Saison mit Konzerten großer Orchester und Ensembles",
+    "predicted_city": "Berlin",
+    "confidence": 0.8828550577163696, "is_correct": true,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Am 28. Juni 2025 lädt die Lange Nacht der Wissenschaften dazu ein, sonst nicht zugängliche Archive, Labore und Forschungseinrichtungen zu entdecken. Im Septem- ber folgt das Internationale Literaturfestival, bei dem über 100 Autor:innen aus aller Welt ihre Werke präsentieren. Der Tag des offenen Denkmals im September ermöglicht Einblicke in sonst verschlossene historische Orte der Stadt",
+    "predicted_city": "Chemnitz", "confidence": 0.9169730544090271, "is_correct": false,
+    "actual_city": "Berlin"
+    },
+    {
+    "input_text": "Im Norden Deutschlands liegt eine Stadt, deren Herz für die Schifffahrt schlägt. Jedes Jahr im Mai verwandelt sich das Flussufer in eine riesige Festmeile, wenn das größte Hafenfest Europas gefeiert wird. Dann ziehen historische Windjammer, moderne Kreuzfahrtschiffe und bunte Barkassen in einer großen Parade vorbei, während am Abend ein spektakuläres Feuerwerk den Himmel über dem Wasser erleuchtet. Das maritim ge- prägte Stadtbild ist von roten Backsteinbauten, unzähligen Brücken und einem weltberühm- ten Vergnügungsviertel geprägt, das nachts niemals zur Ruhe kommt.",
+    "predicted_city": "Hamburg", "confidence": 0.9505341053009033, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Sommer pulsiert die Stadt mit einer Vielzahl an Festivals: Von Open-Air-Konzerten im grünen Stadtpark über ein mehrtägiges Musikfest auf einer Elbinsel bis hin zu einem internationalen Clubfestival, das Musiker:innen, Branchenprofis und Fans aus aller Welt anzieht. Besonders im Spätsommer verwandelt sich ein ganzes Viertel in eine Bühne für Musik, Kunst und Diskussionen, wenn das größte Clubfestival Europas stattfindet. Die Atmosphäre ist geprägt von Weltoffenheit, Kreativität und dem Duft von Streetfood aus aller Welt.",
+    "predicted_city": "Hamburg", "confidence": 0.5549538731575012, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Stadt ist ein Zentrum für Musicals und Shows: Ein modernes Theater im Hafen zeigt ab Herbst wieder ein spektakuläres Stück, in dem Akrobatik und Musik die Geschichte eines Jungen erzählen, der im Dschungel aufwächst. Über das Jahr hinweg gastieren internationale Stars und Bands in großen Arenen und auf Open-Air-Bühnen, da- runter legendäre Künstlerinnen und Künstler, die seit Jahrzehnten Musikgeschichte schrei- ben.",
+    "predicted_city": "Hamburg", "confidence": 0.9187842011451721, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Jedes Frühjahr findet ein internationales Musikfest statt, das klassische Or- chester, Jazz-Ensembles und innovative Klangkünstler:innen zusammenbringt. Ein weiteres Highlight sind die Wasserlichtkonzerte im zentralen Park, bei denen Fontänen und farbiges Licht zu Musik tanzen. Die Stadt feiert ihre Vielfalt mit Straßenfesten, japanischen Kirsch- blütenfesten und kulinarischen Märkten, die Besucher:innen aus nah und fern anziehen.",
+    "predicted_city": "Chemnitz", "confidence": 0.7678065299987793, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "In einem der größten Stadtparks Europas finden von Mai bis September zahlreiche Open-Air-Konzerte statt. Die Bühne steht mitten im Grünen, umgeben von alten Bäumen, und bietet ein abwechslungsreiches Programm: Von Rock und Pop über Jazz bis hin zu Singer-Songwriter-Konzerten. Legendäre Musiker:innen feiern hier Jubiläen, und Newcomer geben ihr Debüt vor begeistertem Publikum.",
+    "predicted_city": "Chemnitz", "confidence": 0.8334372639656067, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Eine große Stadt im Norden ist berühmt für ihre spektakuläre Musicalszene: Direkt am Wasser liegt ein Theater, das seit über zwei Jahrzehnten ein preisgekröntes Stück über den König der Tiere aufführt. Besucher:innen erreichen das Theater mit einer Fähre, die über einen breiten Strom pendelt. Neben diesem Klassiker begeistern auch neue Pro- duktionen, darunter ein Musical über einen Halbgott aus der griechischen Mythologie und ein Pop-Musical, das Shakespeares berühmteste Heldin in ein modernes Abenteuer schickt. Die Vielfalt reicht von internationalen Broadway-Hits bis zu Kultstücken, die das Leben in einem legendären Vergnügungsviertel feiern",
+    "predicted_city": "Hamburg", "confidence": 0.55711829662323,
+    "is_correct": true, "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Stadt gilt als Deutschlands Musicalhauptstadt: Hier laufen gleich meh- rere große Produktionen parallel, darunter ein aufwendig inszeniertes Theaterstück, das die magische Welt eines berühmten Zauberers weiterführt – mit spektakulären Effekten, aber ganz ohne Gesang. Auch ein Musical über den King of Pop, das mit Moonwalk, Glitzerhand- schuh und den größten Hits der Musikgeschichte begeistert, feierte hier seine Deutschland- premiere. Die Bühnenlandschaft ist geprägt von modernen Theatern am Wasser und tradi- tionsreichen Häusern im Szeneviertel, in denen freche Komödien und Varieté-Shows das Publikum zum Lachen bringen",
+    "predicted_city": "Berlin", "confidence": 0.461986780166626, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Herzen der Stadt steht ein Theater, das seit 2003 ein Stück aufführt, das zur Liebeserklärung an das berühmteste Viertel der Stadt geworden ist. In einem Imbiss auf dem Kiez treffen schräge Charaktere aufeinander, deren Geschichten und derbe Sprüche längst Kultstatus erreicht haben. Die Show ist ein Dauerbrenner und zieht sowohl Einheimi- sche als auch Besucher:innen an. Nebenan laufen regelmäßig neue Produktionen mit be- kannten Pop-Hits, die klassische Stoffe neu interpretieren und das Publikum mitreißen",
+    "predicted_city": "Berlin", "confidence": 0.49233323335647583, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Theater- und Musicalszene der Stadt ist so vielfältig wie ihre Bewohner:innen: Von Disney-Klassikern über moderne Pop-Komödien bis zu spektakulären Shows über Musiklegenden – die Bühnen bieten für jeden Geschmack das passende Er- lebnis. Besonders beliebt sind Produktionen, die mit aufwendigen Kostümen, innovativen Bühnenbildern und Live-Musik begeistern. Viele Shows feiern hier ihre Deutschland- oder gar Europapremiere, bevor sie auf Tournee gehen",
+    "predicted_city": "Berlin", "confidence": 0.48419150710105896, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Theater- und Musicalszene der Stadt ist so vielfältig wie ihre Bewoh- ner:innen: Von Disney-Klassikern über moderne Pop-Komödien bis zu spektakulären Shows über Musiklegenden – die Bühnen bieten für jeden Geschmack das passende Er- lebnis. Besonders beliebt sind Produktionen, die mit aufwendigen Kostümen, innovativen Bühnenbildern und Live-Musik begeistern. Viele Shows feiern hier ihre Deutschland- oder gar Europapremiere, bevor sie auf Tournee gehen",
+    "predicted_city": "Berlin", "confidence": 0.48419150710105896, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Sommer verwandelt sich ein großer Stadtpark in eine Open-Air-Bühne: Internationale Stars und Musiklegenden treten zwischen alten Bäumen auf, von Soul und Pop bis Punk und Jazz. 2025 sind hier Künstler wie Air, Franz Ferdinand, Iggy Pop und Patti Smith live zu erleben. Die Konzertreihe gilt als eine der traditionsreichsten und beliebtesten in Deutschland und lockt Besucher aus dem ganzen Land an",
+    "predicted_city": "Chemnitz", "confidence": 0.8812947869300842, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "m Norden Deutschlands liegt eine Hafenstadt, deren historisches Lager- hausviertel auf Holzpfählen im Wasser errichtet wurde und heute zum UNESCO-Welterbe zählt. Direkt daneben erhebt sich ein modernes Konzerthaus mit einer markanten Glasfas- sade und wellenförmigem Dach, das auf einem alten Kaispeicher gebaut wurde. Die Stadt besitzt mehr Brücken als Venedig und Amsterdam zusammen und ist geprägt von zahlrei- chen Kanälen, Fleeten und der Elbe, die das Stadtbild prägen. Jährlich zieht das größte Hafenfest Europas mit einer Einlaufparade von Traditionsseglern und Kreuzfahrtschiffen Millionen Besucher an.",
+    "predicted_city": "Hamburg", "confidence": 0.9599820375442505, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Eine norddeutsche Großstadt ist berühmt für ihre lebendige Musicalszene, die an mehreren Theatern direkt am Wasser stattfindet. Besucher erreichen die Spielstätten oft mit Fähren, die über die Elbe pendeln. Im berühmten Vergnügungsviertel mit seiner le- gendären „sündigsten Meile“ finden regelmäßig große Clubfestivals und Straßenfeste statt. Die Stadt ist außerdem bekannt für ihre Speicherstadt mit roten Backsteinbauten, die von Wasserläufen durchzogen ist, und für den Hafen, der einer der größten Seehäfen Europas ist.Text 3Diese Stadt ist geprägt von einer Mischung aus maritimer Tradition und moderner Architektur: Im historischen Lagerhauskomplex lagern einst Kaffee, Tee und Gewürze, heute sind dort Museen, Büros und Restaurants untergebracht. Direkt am Hafen steht ein neues Wahrzeichen, das mit seiner Glasfassade und der spektakulären Aussichtsplattform Besucher aus aller Welt anzieht. Jährlich im Mai findet hier das größte Hafenfest Europas statt, bei dem Segelschiffe, Kreuzfahrtschiffe und Schlepper in einer großen Parade die Elbe entlangfahren.Text 4Eine Stadt im Norden besitzt ein einzigartiges Ensemble aus Fleeten, Kanälen und Brücken, das ihr den Spitznamen „Venedig des Nordens“ eingebracht hat. Das historische Lagerhausviertel mit seinen roten Klinkerbauten ist UNESCO-Weltkulturerbe und wird von schiffbaren Wasserwegen durchzogen. Am Hafen liegt ein modernes Konzert- haus mit einem wellenförmigen Dach, das auf einem alten Kaispeicher errichtet wurde. Das jährliche Hafenfest lockt mit einer Einlaufparade von Traditionsseglern, Feuerwerk und ma- ritimen Veranstaltungen Millionen Besucher an.Wenn du möchtest, kann ich dir gerne noch weitere Texte mit dieser eindeutigen Kombination liefern – oder auch gezielt auf einzelne Stadtteile, historische Ereignisse oder aktuelle Projekte eingehen.Sag einfach Be- scheid!ÄhnlichWie kann ich meine Texte so gestalten, dass sie nur Hamburg betreffenWel- che Schlüsselwörter helfen mir, Hamburg-spezifische Inhalte zu erkennenWarum sind be- stimmte Themen nur in Bezug auf Hamburg relevant für mein ModulWie finde ich heraus, ob ein Text wirklich ausschließlich über Hamburg handeltWas sind typische Merkmale, die einen Text eindeutig als Hamburg-bezogen kennzeichnen",
+    "predicted_city": "Hamburg", "confidence": 0.9823696613311768, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Diese Stadt ist geprägt von einer Mischung aus maritimer Tradition und mo- derner Architektur: Im historischen Lagerhauskomplex lagern einst Kaffee, Tee und Ge- würze, heute sind dort Museen, Büros und Restaurants untergebracht. Direkt am Hafen steht ein neues Wahrzeichen, das mit seiner Glasfassade und der spektakulären Aussichts- plattform Besucher aus aller Welt anzieht. Jährlich im Mai findet hier das größte Hafenfest Europas statt, bei dem Segelschiffe, Kreuzfahrtschiffe und Schlepper in einer großen Pa- rade die Elbe entlangfahren.",
+    "predicted_city": "Hamburg", "confidence": 0.9095186591148376, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Eine Stadt im Norden besitzt ein einzigartiges Ensemble aus Fleeten, Ka- nälen und Brücken, das ihr den Spitznamen „Venedig des Nordens“ eingebracht hat. Das historische Lagerhausviertel mit seinen roten Klinkerbauten ist UNESCO-Weltkulturerbe und wird von schiffbaren Wasserwegen durchzogen. Am Hafen liegt ein modernes Konzert- haus mit einem wellenförmigen Dach, das auf einem alten Kaispeicher errichtet wurde. Das jährliche Hafenfest lockt mit einer Einlaufparade von Traditionsseglern, Feuerwerk und ma- ritimen Veranstaltungen Millionen Besucher an.",
+    "predicted_city": "Hamburg", "confidence": 0.954418420791626, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Stadt im Norden Deutschlands ist bekannt für ihre weitläufige Hafenan- lage, die zu den größten Europas zählt. Direkt an der Elbe liegt ein historisches Lagerhaus- viertel, das auf Holzpfählen errichtet wurde und heute zum UNESCO-Weltkulturerbe gehört. Über 2.500 Brücken verbinden Fleete und Kanäle, die das Stadtbild durchziehen. Im Hafen steht ein modernes Konzerthaus mit einer spektakulären Glasfassade und einer Aussichts- plattform, die einen Panoramablick über die Elbe und die Stadt bietet. Jährlich im Mai zieht das Hafenfest mit Segelschiffparaden, Feuerwerk und maritimen Events Millionen Besucher an.",
+    "predicted_city": "Hamburg", "confidence": 0.9478276371955872, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Eine norddeutsche Metropole zeichnet sich durch ihre einzigartige Verbin- dung von maritimer Tradition und moderner Architektur aus. Das historische Kontorhaus- viertel mit seinen expressiven Backsteinfassaden ist Teil des UNESCO-Weltkulturerbes. Di- rekt am Wasser erhebt sich ein Konzerthaus mit wellenförmigem Dach, das auf einem alten Kaispeicher errichtet wurde und als architektonisches Wahrzeichen gilt. Die Stadt besitzt mehr Brücken als Venedig und Amsterdam zusammen und ist berühmt für ihr lebendiges Hafenfest im Mai, das mit einer großen Einlaufparade von Traditionsseglern und Kreuzfahrt- schiffen gefeiert wird.",
+    "predicted_city": "Hamburg", "confidence": 0.9591152667999268, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Herzen einer norddeutschen Hafenstadt liegt ein historisches Lager- hausviertel, das auf Holzpfählen gebaut wurde und heute zum UNESCO-Welterbe zählt. Die Elbe durchzieht die Stadt mit ihren zahlreichen Kanälen und Fleeten, die von über 2.500 Brücken überspannt werden. Direkt am Hafen steht ein modernes Konzerthaus mit einer markanten Glasfassade und einer Aussichtsplattform, die einen beeindruckenden Blick auf den Hafen und die Stadt ermöglicht. Jedes Jahr im Mai findet hier das größte Hafenfest Europas statt, das mit Segelschiffparaden, Feuerwerk und maritimen Events Besucher aus aller Welt anzieht",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9609131217002869, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Diese norddeutsche Stadt ist berühmt für ihre Speicherstadt, ein histori- sches Lagerhausviertel mit roten Backsteinbauten, das auf Pfählen im Wasser errichtet wurde und zum UNESCO-Weltkulturerbe gehört. Am Hafen befindet sich ein modernes Kon- zerthaus mit einer wellenförmigen Glasfassade, das auf einem alten Kaispeicher erbaut wurde. Die Stadt besitzt mehr Brücken als jede andere in Europa und ist bekannt für ihr großes Hafenfest im Mai, bei dem Traditionssegler, Kreuzfahrtschiffe und Schlepper eine beeindruckende Parade auf der Elbe bilden.",
+    "predicted_city": "Hamburg", "confidence": 0.9318277835845947, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Eine norddeutsche Hafenstadt beeindruckt durch ihr historisches Lager- hausviertel, das auf Holzpfählen im Wasser errichtet wurde und heute zum UNESCO- Weltkulturerbe zählt. Die Elbe durchzieht die Stadt, die von über 2.500 Brücken überspannt wird – mehr als in Venedig und Amsterdam zusammen. Direkt am Hafen erhebt sich ein modernes Konzerthaus mit einer markanten Glasfassade und einer Aussichtsplattform, die einen spektakulären Blick über die Stadt und das Wasser bietet. Jährlich im Mai zieht das größte Hafenfest Europas mit einer Einlaufparade von Traditionsseglern, Kreuzfahrtschiffen und Feuerwerk Millionen Besucher an.",
+    "predicted_city": "Hamburg", "confidence": 0.9619415998458862, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Diese Stadt im Norden Deutschlands ist bekannt für ihre einzigartige Ver- bindung von maritimer Tradition und moderner Architektur. Das historische Kontorhausvier- tel mit seinen expressiven Backsteinfassaden ist Teil des UNESCO-Welterbes. Direkt am Wasser steht ein modernes Konzerthaus mit wellenförmigem Dach, das auf einem alten Kaispeicher errichtet wurde und als architektonisches Wahrzeichen gilt. Die Stadt besitzt mehr Brücken als Venedig und Amsterdam zusammen und ist berühmt für ihr großes Ha- fenfest im Mai, das mit einer Einlaufparade von Traditionsseglern und Kreuzfahrtschiffen gefeiert wird.",
+    "predicted_city": "Hamburg", "confidence": 0.9509172439575195, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Herzen einer norddeutschen Metropole liegt ein historisches Lagerhaus- viertel, das auf Holzpfählen gebaut wurde und heute zum UNESCO-Weltkulturerbe zählt. Die Elbe durchzieht die Stadt mit zahlreichen Kanälen und Fleeten, die von über 2.500 Brü- cken überspannt werden. Direkt am Hafen steht ein modernes Konzerthaus mit einer mar- kanten Glasfassade und einer Aussichtsplattform, die einen beeindruckenden Blick auf den Hafen und die Stadt ermöglicht. Das jährliche Hafenfest im Mai lockt mit Segelschiffparaden, Feuerwerk und maritimen Veranstaltungen Besucher aus aller Welt an.",
+    "predicted_city": "Hamburg", "confidence": 0.9421404004096985, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Eine norddeutsche Stadt ist berühmt für ihre Speicherstadt, ein historisches Lagerhausviertel mit roten Backsteinbauten, das auf Pfählen im Wasser errichtet wurde und zum UNESCO-Weltkulturerbe gehört. Am Hafen befindet sich ein modernes Konzerthaus mit einer wellenförmigen Glasfassade, das auf einem alten Kaispeicher erbaut wurde. Die Stadt besitzt mehr Brücken als jede andere in Europa und ist bekannt für ihr großes Hafen- fest im Mai, bei dem Traditionssegler, Kreuzfahrtschiffe und Schlepper eine beeindruckende Parade auf der Elbe bilden.",
+    "predicted_city": "Hamburg", "confidence": 0.9324287176132202, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Eine norddeutsche Metropole ist geprägt von einem historischen Lager- hausviertel, das auf Holzpfählen im Wasser errichtet wurde und heute zum UNESCO- Welterbe zählt. Die Stadt besitzt über 2.500 Brücken, mehr als jede andere europäische Stadt, und wird von der Elbe sowie zahlreichen Fleeten und Kanälen durchzogen. Am Hafen steht ein modernes Konzerthaus mit einer markanten Glasfassade und einer Aussichtsplatt- form, die einen spektakulären Blick über den Hafen und die Stadt bietet. Jährlich im Mai zieht das größte Hafenfest Europas mit einer Einlaufparade von Traditionsseglern, Kreuz- fahrtschiffen und einem großen Feuerwerk Millionen Besucher an.",
+    "predicted_city": "Hamburg", "confidence": 0.9527521133422852, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Diese norddeutsche Stadt verbindet maritimes Flair mit moderner Architek- tur: Das historische Kontorhausviertel mit seinen expressiven Backsteinfassaden gehört zum UNESCO-Weltkulturerbe. Direkt am Wasser erhebt sich ein Konzerthaus mit wellen- förmigem Dach, das auf einem alten Kaispeicher errichtet wurde und als architektonisches Wahrzeichen gilt. Die Stadt ist berühmt für ihre mehr als 2.500 Brücken und ihr großes Ha- fenfest im Mai, bei dem Traditionssegler, Kreuzfahrtschiffe und Schlepper eine beeindru- ckende Parade auf der Elbe bilden.",
+    "predicted_city": "Hamburg", "confidence": 0.9451633095741272, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Herzen einer norddeutschen Hafenstadt liegt ein historisches Lager- hausviertel, das auf Holzpfählen gebaut wurde und heute zum UNESCO-Weltkulturerbe zählt. Die Elbe durchzieht die Stadt mit zahlreichen Kanälen und Fleeten, die von über 2.500 Brücken überspannt werden. Direkt am Hafen steht ein modernes Konzerthaus mit einer markanten Glasfassade und einer Aussichtsplattform, die einen beeindruckenden Blick auf den Hafen und die Stadt ermöglicht. Das jährliche Hafenfest im Mai lockt mit Segelschiffpa- raden, Feuerwerk und maritimen Veranstaltungen Besucher aus aller Welt an.",
+    "predicted_city": "Hamburg", "confidence": 0.9513487815856934, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Eine norddeutsche Stadt ist berühmt für ihre Speicherstadt, ein historisches Lagerhausviertel mit roten Backsteinbauten, das auf Pfählen im Wasser errichtet wurde und zum UNESCO-Weltkulturerbe gehört. Am Hafen befindet sich ein modernes Konzerthaus mit einer wellenförmigen Glasfassade, das auf einem alten Kaispeicher erbaut wurde. Die Stadt besitzt mehr Brücken als jede andere in Europa und ist bekannt für ihr großes Hafen- fest im Mai, bei dem Traditionssegler, Kreuzfahrtschiffe und Schlepper eine beeindruckende Parade auf der Elbe bilden.",
+    "predicted_city": "Hamburg", "confidence": 0.9324287176132202, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Geschichte reicht bis ins 8. Jahrhundert zurück, als an der Mündung von Alster und Bille die Hammaburg errichtet wurde – eine Befestigungsanlage, die als Ursprung der Stadt gilt. Die günstige Lage an Elbe und Alster machte den Ort früh zu einem wichtigen Handelsplatz. Im Mittelalter entwickelte sich Hamburg zu einer der bedeutendsten Handels- städte Europas, begünstigt durch den Hafen und die jahrhundertelange politische Unabhän- gigkeit als Freie und Hansestadt",
+    "predicted_city": "Hamburg", "confidence": 0.9757089614868164, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Heute ist Hamburg die zweitgrößte Stadt Deutschlands, geprägt von ihrer langen Geschichte als Handelsmetropole, den markanten Backsteinbauten der Spei- cherstadt, der Elbphilharmonie am Hafen und einer einzigartigen Mischung aus Tradition und Modern",
+    "predicted_city": "Hamburg", "confidence": 0.9398375153541565,
+    "is_correct": true, "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Norden Deutschlands entstand im 8. Jahrhundert an der Mündung zweier Flüsse eine kleine Befestigungsanlage, die als Keimzelle einer der bedeutendsten Hafenstädte Europas gilt. Die günstige Lage an einem breiten Strom, der Zugang zur Nord- see bietet, begünstigte schon früh den Aufstieg zu einem wichtigen Handelsplatz. Im Mittel- alter erhielt die Stadt das kaiserliche Privileg eines Freihafens, was sie zu einem Zentrum des Fernhandels und zu einem führenden Mitglied eines mächtigen Kaufmannsbundes machte.",
+    "predicted_city": "Hamburg", "confidence": 0.9554019570350647, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Zweiten Weltkrieg wurde die Stadt schwer zerstört, doch nach dem Wie- deraufbau erlebte sie einen erneuten Aufschwung als Wirtschafts- und Kulturzentrum. Heute prägen das historische Speicherensemble, die zahlreichen Brücken über Kanäle und Fleete sowie ein modernes Konzerthaus am Wasser das Stadtbild einer Metropole, die Tra- dition und Moderne auf einzigartige Weise verbindet",
+    "predicted_city": "Hamburg", "confidence": 0.7529599070549011, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im hohen Norden Deutschlands entwickelte sich eine Stadt an einem brei- ten Fluss, deren Geschichte von Handel, Schifffahrt und Unabhängigkeit geprägt ist. Bereits im Mittelalter war sie Teil eines mächtigen Städtebundes, der den Handel zwischen Nord- und Ostsee dominierte. Der Hafen – heute einer der größten Europas – war schon damals das Tor zur Welt und brachte Wohlstand sowie kulturelle Vielfalt.",
+    "predicted_city": "Hamburg", "confidence": 0.9159038662910461, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Die Stadt wurde immer wieder von Katastrophen heimgesucht: Ein verhee- render Brand im 19. Jahrhundert zerstörte weite Teile der Altstadt, und im Zweiten Weltkrieg legten Luftangriffe große Flächen in Trümmer. Doch stets folgte ein kraftvoller Wiederauf- bau. Heute prägen das historische Speicherensemble, die vielen Wasserwege und ein mo- dernes Konzerthaus am Hafen das Bild einer weltoffenen Metropole, die Tradition und In- novation vereint.",
+    "predicted_city": "Hamburg", "confidence": 0.9120486974716187, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Zeitalter der Aufklärung wurden zahlreiche Handelsverträge mit europä- ischen Nachbarn abgeschlossen, der Hafen stetig ausgebaut und die älteste Wirtschafts- bibliothek der Welt gegründet. Die Stadt blieb während des Siebenjährigen Krieges neutral und konnte so ihren Status als Finanz- und Handelszentrum festigen. Ab dem späten 18. Jahrhundert brachte der Nordamerikahandel einen weiteren wirtschaftlichen Aufschwung.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.8737292289733887, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Trotz politischer und wirtschaftlicher Krisen, darunter internationale Finanz- krisen und Kriege, behauptete die Stadt ihre Rolle als eines der wichtigsten Handels- und Finanzzentren Europas.",
+    "predicted_city": "Chemnitz", "confidence": 0.4464227855205536, "is_correct": false,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Zum Jahreswechsel 2025 steigen in der norddeutschen Hafenstadt die Kos- ten für Müllabfuhr, Gehwegreinigung und die Beseitigung von Schmutz- und Regenwasser. Die Müllgebühren erhöhen sich um rund 4,8 Prozent, die Reinigung der öffentlichen Wege um etwa 5,6 Prozent. Zudem wird die Gebühr für die Ableitung von Schmutz- und Regen- wasser um etwa 4,3 Prozent angehoben. Immobilienbesitzer müssen sich zudem auf neue Grundsteuer-Hebesätze einstellen, die vor allem bei unbebauten, aber baureifen Grundstü- cken deutlich steigen, um Spekulationen einzudämmen und den Wohnungsbau zu fördern. Auch die Preise im öffentlichen Nahverkehr steigen um durchschnittlich 5,2 Prozent.",
+    "predicted_city": "Hamburg", "confidence": 0.9598955512046814, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Der Immobilienmarkt in der Metropole im Norden zeigt sich 2025 stabil mit Chancen für Investoren. Während die Zinsen für langfristige Kredite voraussichtlich konstant bleiben, wird die Mietpreisbremse bis mindestens Ende 2025 verlängert. Die Stadt setzt auf nachhaltige Stadtentwicklung und fördert die Umnutzung von Büroflächen sowie Mischnut- zungen. Neubautätigkeiten bleiben auf niedrigem Niveau, und die Klimaneutralität im Ge- bäudesektor ist ein zentrales politisches Ziel. Die Stadt plant, weiterhin jährlich über 1.200 Wohneinheiten zu genehmigen, um dem Wohnraummangel entgegenzuwirken.",
+    "predicted_city": "Hamburg", "confidence": 0.4277293384075165, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Bei der Bürgerschaftswahl 2025 konnte die sozialdemokratische Partei ih- ren Vorsprung behaupten, gefolgt von der konservativen Partei, die die Grünen überholte. Die Regierungsbildung wird voraussichtlich eine Koalition aus Sozialdemokraten und Grü- nen oder Sozialdemokraten und Konservativen sein. Die Wahl spiegelt bundesweite politi- sche Trends wider und wird die Weichen für die weitere Entwicklung der Stadt in den Berei- chen Wohnungsbau, Verkehr und Klimaschutz stellen.",
+    "predicted_city": "Hamburg", "confidence": 0.7964885830879211, "is_correct": true,
+    "actual_city": "Hamburg"
+    },
+    {
+    "input_text": "Im Bezirk im Norden der Stadt wurde 2025 das Wohnungsbauprogramm fortgeschrieben, mit dem Ziel, jährlich mindestens 1.200 neue Wohnungen zu genehmigen und zu bauen. Trotz wirtschaftlicher Herausforderungen konnte das Ziel 2024 fast erreicht werden. Die Stadt setzt auf eine ausgewogene Balance zwischen sozialer Verantwortung, ökologischen Standards und wirtschaftlicher Machbarkeit, um bezahlbaren Wohnraum zu schaffen und den Druck auf dem Wohnungsmarkt zu mindern.",
+    "predicted_city": "Berlin", "confidence": 0.8207665085792542, "is_correct": false,
+    "actual_city": "Hamburg "
+    },
+    {
+    "input_text": "exit ", "predicted_city": "Berlin",
+    "confidence": 0.4502650499343872, "is_correct": true,
+    "actual_city": "Berlin"
+    }
+]

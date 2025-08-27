@@ -1,0 +1,44 @@
+{
+  "run": 8,
+  "accuracy": 0.9375,
+  "classification_report": "              precision    recall  f1-score   support\n\n      Berlin       0.91      1.00      0.95        20\n    Chemnitz       0.90      0.95      0.93        20\n     Hamburg       1.00      0.88      0.93        24\n\n    accuracy                           0.94        64\n   macro avg       0.94      0.94      0.94        64\nweighted avg       0.94      0.94      0.94        64\n",
+  "confusion_matrix": [
+    [
+      20,
+      0,
+      0
+    ],
+    [
+      1,
+      19,
+      0
+    ],
+    [
+      1,
+      2,
+      21
+    ]
+  ],
+  "misclassified_samples": [
+    {
+      "text": "Bevölkerungsschutz : Zivilschutz Unter Zivilschutz versteht man in Deutschland alle nicht - militärischen Maßnahmen im Verteidigungs - oder Spannungsfall, welche dem Schutz der Bevölkerung an sich sowie dem Aufrechterhalten der öffentlichen Infrastruktur dienen. Er unterscheidet sich damit definitionsgemäß und vor allem hinsichtlich der verfassungsrechtlichen Zuständigkeiten vom Katastrophenschutz. Es handelt sich hier um grundsätzlich unterschiedliche Sachverhalte und Aufgabenbereiche : Der Zivilschutz gehört nach Art. 73 Nr. 1 Grundgesetz ( GG ) zur ausschließlichen Gesetzgebungskompetenz des Bundes über die Verteidigung einschließlich des Schutzes der Zivilbevölkerung. Er ist ein Teilbereich der Zivilverteidigung, für die das Bundesministerium des Innern zuständig ist. Die Stadt [ CITY ] nimmt im Auftrag des Bundes am Zivilschutz teil. In [ CITY ] ist eine medizinische Einheit des Zivilschutzes stationiert und wird durch die Feuerwehr [ CITY ] gemeinsam mit den Partnern des Deutschen Roten Kreuzes und des Arbeiter Samariter Bundes personell besetzt. Die Medizinische Task Force ( MTF ) ist eine standardisierte, sanitätsdienstliche, arztbesetzte Taktische Einheit mit Spezialfähigkeiten zum Einsatz im Zivilschutz und der bundeslandübergreifenden Katastrophenhilfe des Bundes.",
+      "true_city": "Chemnitz",
+      "predicted_city": "Berlin"
+    },
+    {
+      "text": "Weiterbildung mit Qualität Zufriedene Teilnehmer : innen, die gern wiederkommen und uns weiterempfehlen, ist unser größtes Anliegen. Vor diesem Hintergrund arbeiten wir stetig daran, unser Bildungsangebot zu erweitern und bedarfsgerecht anzupassen. Mit unserem Qualitätsmanagement stellen wir sicher, dass unsere Arbeit von der Planung über die Organisation bis zur Durchführung der Seminare, Projekte oder Veranstaltungen an einheitlichen Qualitätsstandards orientiert ist. Ziel ist die systematische und kontinuierliche Verbesserung des Angebots und der Organisation. Darüber hinaus sind wir Mitglied bei Weiterbildung [ CITY ] e. V. und tragen das Prüfsiegel. Es bestätigt die Einhaltung von Qualitätsstandards in der Weiterbildung. Dies wird alle 3 Jahre von unabhängigen Gutachter : innen überwacht.",
+      "true_city": "Hamburg",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Verkehr Straßenverkehr Die B 93 aus Richtung Anschlussstelle 62 ( Meerane / [ CITY ] - Nord ) mit Blick auf das Volkswagen - Werk und [ CITY ] er Stadtgebiet Bundesautobahnen A4 E40 : Bad Hersfeld Eisenach Gotha Erfurt Weimar Jena Gera [ CITY ] Chemnitz Dresden Bautzen Görlitz Aus Richtung Norden kommend, verlässt man an der Anschlussstelle 62 ( Meerane / [ CITY ] - Nord ) die A 4. Aus dieser Richtung ist die Stadt über die B 93 zu erreichen. Nach dem Verlassen folgt unmittelbar die B - 93 - Anschlussstelle zum Volkswagenwerk [ CITY ]. Die zwischen den Anschlussstellen 62 der A 4 ( Meerane ) und 11 der A 72 ( [ CITY ] - Ost ) durch die Stadt [ CITY ] verlaufende B - 93 - Querverbindung ist eine Schnellstraße. A72 E441 : Hof Plauen [ CITY ] Chemnitz Vom Süden her gelangt man über die Anschlussstellen 10 ( [ CITY ] - West ) und 11 ( [ CITY ] - Ost ) ins Stadtzentrum, welches über die ausgebauten Neubaustrecken der B 173 und B 93 in wenigen Minuten erreichbar ist. Bundesstraßen Durch [ CITY ] verlaufen folgende drei Bundesstraßen : B93 : Borna Altenburg Meerane [ CITY ] Wilkau - Haßlau Schneeberg B173 : Lichtenfels Kronach Hof Plauen Reichenbach [ CITY ] Chemnitz Freiberg Dresden B175 : Lederhose Weida Werdau [ CITY ] Glauchau Döbeln Nossen Schienenverkehr Auf einem Dreischienengleis der Straßenbahn [ CITY ] fahren dieselbetriebene Tram - Trains der Vogtlandbahn bis in die [ CITY ] er Innenstadt. Durch [ CITY ] führt die Bahnstrecke Dresden Werdau. Diese ist Bestandteil der Sachsen - Franken - Magistrale von Dresden nach Nürnberg. Unweit verläuft die Bahnstrecke Leipzig Hof, in welche die Bahnstrecke Dresden Werdau mündet. Die Verbindung zum Westerzgebirge ist die Bahnstrecke, welche vom [ CITY ] er Hauptbahnhof über Wilkau - Haßlau und Aue nach Schwarzenberg / Erzgeb. führt. Am Hauptbahnhof beginnt auch die Strecke nach Falkenstein in das nahe Vogtland. Seit Eröffnung des Citytunnels Leipzig am 15. Dezember",
+      "true_city": "Hamburg",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Einwohnerzahl und Bevölkerungsentwicklung Die aktuelle Einwohnerzahl [ CITY ] s wird für 2025 auf 1. 787. 710 geschätzt. Dies zeigt ein kontinuierliches Wachstum seit 1950, als die Bevölkerung bei 1. 607. 530 lag. Im letzten Jahr wuchs [ CITY ] um 430 Einwohner, was einer jährlichen Veränderungsrate von 0, 02 % entspricht. Die Bevölkerungsentwicklung [ CITY ] s zeigt folgende Trends : 1990 : 1. 652. 363 Einwohner 2000 : 1. 715. 392 Einwohner 2010 : 1. 786. 448 Einwohner 2015 : 1. 787. 408 Einwohner Altersstruktur und ethnische Zusammensetzung Die Altersstruktur [ CITY ] s ( Stand 2023 ) setzt sich wie folgt zusammen : 0 - 17 Jahre : 315. 584 ( 17, 0 % ) 18 - 64 Jahre : 1. 202. 977 ( 64, 9 % ) 65 + Jahre : 333. 035 ( 18, 0 % ) Das Durchschnittsalter der [ CITY ] er Bevölkerung beträgt 42, 3 Jahre, was [ CITY ] zur jüngsten Stadt Deutschlands macht. Die ethnische Zusammensetzung ( Stand 2022 ) : Deutsche Staatsangehörigkeit : 1. 503. 567 ( 83, 1 % ) EU - Staatsangehörigkeit : 96. 570 ( 5, 3 % ) Andere Staatsangehörigkeiten : 208. 709 ( 11, 5 % ) Zu - und Abwanderung [ CITY ] ist ein attraktives Ziel für junge Menschen aus anderen Teilen Deutschlands und dem Ausland. Die Stadt verzeichnet einen kontinuierlichen Zuzug, insbesondere von jungen Menschen und Ausländern, was sich in der Altersstruktur widerspiegelt. 2024 lebten knapp 47. 000 Menschen in städtischen Unterkünften in [ CITY ], was auf eine signifikante Zuwanderung hindeutet. Die Einbürgerungszahlen stiegen im letzten Jahr um fast 20 % auf 9. 599, was teilweise auf die Reform des Staatsangehörigkeitsrechts zurückzuführen ist. [ CITY ] steht vor der Herausforderung, den demografischen Wandel zu bewältigen und gleichzeitig eine \" altersfreundliche Stadt \" zu bleiben, wie der Aktionsplan \" Age - friendly City \" zeigt.",
+      "true_city": "Hamburg",
+      "predicted_city": "Berlin"
+    }
+  ]
+}

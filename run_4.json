@@ -1,0 +1,34 @@
+{
+  "run": 4,
+  "accuracy": 0.96875,
+  "classification_report": "              precision    recall  f1-score   support\n\n      Berlin       0.95      0.95      0.95        20\n    Chemnitz       1.00      0.95      0.97        20\n     Hamburg       0.96      1.00      0.98        24\n\n    accuracy                           0.97        64\n   macro avg       0.97      0.97      0.97        64\nweighted avg       0.97      0.97      0.97        64\n",
+  "confusion_matrix": [
+    [
+      19,
+      0,
+      1
+    ],
+    [
+      1,
+      19,
+      0
+    ],
+    [
+      0,
+      0,
+      24
+    ]
+  ],
+  "misclassified_samples": [
+    {
+      "text": "Das Bundesministerium für Gesundheit hat mehrere Änderungen im Gesundheitswesen zusammengefasst, die im Jahr 2025 eingeführt werden. Die wichtigsten beziehen sich auf die weiteren Schritte der Digitalisierung des Gesundheitswesens und der Krankenhausreform : Digitalisierung In Anlehnung an das Gesetz zur Beschleunigung der Digitalisierung des Gesundheitswesens ( Digitalgesetz DigiG ) wird die elektronische Patientenakte ( ePA ) ab dem 15. Januar 2025 auf ein Opt - out - Modell umgestellt. Die Implementierung der ePA durch die Krankenkassen sowie die Prozesse für das Ausfüllen des Inhalts und den Zugriff auf die gespeicherten Daten werden erheblich vereinfacht. Der Gemeinsame Bundesausschuss ( G - BA ) hat bis zum 31. März 2025 die Aufgabe, über die Gestaltung von strukturierten Behandlungsprogrammen unter Einbeziehung digitalisierter Versorgungsprozesse zu entscheiden. Darin wird festgelegt, wie Anwendungen wie die ePA, der elektronische Medikationsplan, die Kommunikation im medizinischen Bereich ( KIM ), der TI Messenger ( TIM ) und die Videosprechstunde bei der Behandlung von Diabetes eingesetzt werden können. Die darauf aufbauend entwickelten Versorgungsprozesse sollen den Versicherten als zusätzliche Option neben dem bestehenden Disease Management Program ( DMP ) angeboten werden ; Ab dem 1. Januar 2025 müssen sich Hersteller nicht mehr der aufwändigen Einzelfallprüfung der Informationssicherheit digitaler Gesundheitsanwendungen durch das Bundesinstitut für Arzneimittel und Medizinprodukte ( BfArM ) unterziehen. Stattdessen müssen sie ein Zertifikat vorlegen, das die Einhaltung der Anforderungen an die Informationssicherheit bestätigt. Dieses Zertifikat wird nach einer gründlichen Evaluierung durch das Bundesamt für Sicherheit in der Informationstechnik ( BSI ) ausgestellt. Dieser schlanke und standardisierte Prüfprozess reduziert den Arbeitsaufwand sowohl für das BfArM als auch für die Hersteller ; Bis zum 31. März 2025 sollen sich der GKV - Spitzenverband ( GKV - Spitzenverband ) und die Apothekerinnen und Apotheker auf die rechtlichen Rahmenbedingungen und Erstattungsregelungen für die Erbringung von assistierten telemedizinischen Leistungen in Apotheken einigen. So können Apotheken beispielsweise Patienten zu ambulanten telemedizinischen Diensten beraten und sie bei der richtigen Anwendung anleiten. Darüber hinaus unterstützen Apotheken die Patienten im Rahmen einer medizinischen telemedizinischen Beratung bei der Durchführung einfacher, routinemäßiger medizinischer Aufgaben. Reform des Krankenhauses Das Gesetz zur Verbesserung der Versorgungsqualität im Krankenhaus und zur Reform der Erstattungsstrukturen ( Krankenhausversorgungsverbesserungsgesetz, KHVVG ), das am 11. Dezember 2024 nach seiner Veröffentlichung im Bundesanzeige",
+      "true_city": "Berlin",
+      "predicted_city": "Hamburg"
+    },
+    {
+      "text": "Umweltschutz geht uns alle an Unsere Umwelt bildet die Lebensgrundlage für alle Lebewesen auf dieser Welt. Der sorgsame Umgang mit ihr ist in Gebieten mit hoher Verkehrs - und Siedlungsdichte wie der Stadt [ CITY ] eine besondere Aufgabe. Umweltschutz ist die Gesamtheit aller Maßnahmen zum Schutze unserer Umwelt und dient der Erhaltung unserer natürlichen Lebensgrundlagen. Der Wandel unseres Klimas wird für uns alle immer spürbarer. Extreme Wettersituationen treten in immer kürzeren Zeitabschnitten auf. Sie gehen immer öfter mit starken Stürmen und Hochwasser einher. Wie wir damit in den nächsten Generationen umgehen wollen ist eine der großen aktuellen Herausforderungen. Auch unser alltägliches Leben bringt immer neue Anforderungen an unser Verhalten mit sich. Der Umgang mit den Abfällen unserer Konsumgesellschaft, die Sicherung sauberer Luft und sauberen Wassers sind mit hohen technischen und organisatorischen Aufwand verbunden. Lärm wird als Umweltbelastung in Ballungsräumen immer mehr zum Thema zwischen unterschiedlichen Interessengruppen. In Natur und Landschaft sind alle lebenswichtigen Ressourcen für uns Menschen enthalten. Es ist unsere Aufgabe, diese als Grundlage für Leben und Gesundheit des Menschen auch in Verantwortung für die künftigen Generationen zu erhalten. Wir haben die hohe Verantwortung, das Leben auf dieser Welt lebenswert zu gestalten und unseren Nachkommen eine gesicherte Zukunft zu gewährleisten.",
+      "true_city": "Chemnitz",
+      "predicted_city": "Berlin"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "run": 7,
+  "accuracy": 0.921875,
+  "classification_report": "              precision    recall  f1-score   support\n\n      Berlin       0.95      0.90      0.92        20\n    Chemnitz       0.86      0.90      0.88        20\n     Hamburg       0.96      0.96      0.96        24\n\n    accuracy                           0.92        64\n   macro avg       0.92      0.92      0.92        64\nweighted avg       0.92      0.92      0.92        64\n",
+  "confusion_matrix": [
+    [
+      18,
+      2,
+      0
+    ],
+    [
+      1,
+      18,
+      1
+    ],
+    [
+      0,
+      1,
+      23
+    ]
+  ],
+  "misclassified_samples": [
+    {
+      "text": "Grundschulen Anna - Seghers - Schule Adresse : Radickestraße 43, 12489 [ CITY ] Schüleralter : Jahrgang 1 6 Besonderheiten : Staatliche Grundschule mit Ganztagsangebot. Grünauer Gemeinschaftsschule Adresse : Walchenseestraße 40, 12527 [ CITY ] Schüleralter : Jahrgang 1 10 Besonderheiten : Gemeinschaftsschule mit Grund - und Sekundarstufe. Tesla - Schule Adresse : Rudi - Arndt - Straße 18, 10407 [ CITY ] Schüleralter : Jahrgang 1 10 Besonderheiten : Fokus auf Naturwissenschaften und Technik. Sekundarschulen Carl - Bosch - Schule Adresse : Frohnauer Straße 74 80, 13467 [ CITY ] Schüleralter : Jahrgang 7 10 Besonderheiten : Staatliche Sekundarschule mit praxisorientiertem Lernen. Heinrich - Böll - Oberschule Adresse : Am Forstacker 9 11, 13587 [ CITY ] Schüleralter : Jahrgang 7 10 Besonderheiten : Schwerpunkt auf kultureller Bildung. Paul - Löbe - Schule Adresse : Lindauer Allee 23 25, 13407 [ CITY ] Schüleralter : Jahrgang 7 10 Besonderheiten : Ganztagsschule mit sozialem Engagement. Gymnasien Friedrich - Ebert - Gymnasium Adresse : Blissestraße 22, 10713 [ CITY ] Schüleralter : Jahrgang 7 12 Besonderheiten : Traditionelles Gymnasium mit Fremdsprachenangebot. John - Lennon - Gymnasium Adresse : Zehdenicker Straße 17, 10119 [ CITY ] Schüleralter : Jahrgang 7 12 Besonderheiten : Fokus auf Musik und Kunst. Evangelisches Gymnasium zum Grauen Kloster Adresse : Salzbrunner Straße 41, 14193 [ CITY ] Schüleralter : Jahrgang 5 12 Besonderheiten : Privates Gymnasium mit christlichem Leitbild. Gemeinschaftsschulen Friedenauer Gemeinschaftsschule Adresse : Rubensstraße 63, 12157 [ CITY ] Schüleralter : Jahrgang 1 13 Besonderheiten : Integrierte Schule ohne festen Übergang zwischen Grund - und Sekundarstufe. Campus Rütli Gemeinschaftsschule Adresse : Rütlistraße 41, 12045 [ CITY ] Schüleralter : Jahrgang 1 13 Besonderheiten : Modellschule für interkulturelles Lernen. Gretel - Bergmann - Gemeinschaftsschule Adresse : Liebensteiner Straße 24, 12687 [ CITY ] Schüleralter : Jahrgang 1 13 Besonderheiten : Moderne Lernkonzepte und Ganztagsbetrieb.",
+      "true_city": "Berlin",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Malerei : Ab 1893 fand jährlich die überregional bedeutende Große [ CITY ] er Kunstausstellung statt. Mit dem Aufkommen der [ CITY ] er Secession 1898, die den Impressionismus in der Malerei prägte, entwickelte sich [ CITY ] als herausragendes Zentrum der bildenden Kunst in Deutschland. Durch den Umzug der expressionistisch arbeitenden Künstlergruppe Brücke nach [ CITY ] erlangte die Kunstszene der Metropole Weltgeltung. Nach 1933 und 1945 gelang der Anschluss an die internationale Kunstwelt jedoch nicht mehr. Erst mit Beginn des 21. Jahrhunderts hat die Bedeutung der Stadt für die bildenden Künste wieder wesentlich zugenommen. Seitdem leben und arbeiten eine Vielzahl anerkannter Kunstschaffender in der Stadt. Durch die im internationalen Vergleich sehr hohe Anzahl von über 300 ansässigen Galerien spielt der Standort innerhalb Deutschlands auch auf dem Kunstmarkt eine wichtige Rolle.",
+      "true_city": "Berlin",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "[ CITY ]. Bei einem schweren Arbeitsunfall ist am Montagnachmittag gegen 14 Uhr in [ CITY ] - Wittgensdorf ein Mann ums Leben gekommen. Der Unfall ereignete sich bei Wartungsarbeiten in der Kanalisation einer ehemaligen Mülldeponie. Der Arbeiter wurde aus einem vier Meter tiefen Schacht tot geborgen. Der 55 - Jährige war bei Kanalarbeiten beschäftigt, teilte die Polizei mit. Die Ursache des Sturzes sowie die Todesumstände seien noch unklar und Gegenstand der Ermittlungen. Der Vorfall ereignete sich am Nachmittag. Als die Einsatzkräfte eintrafen, war der Sauerstoffgehalt in dem Schacht so niedrig, dass keine Luft zum Atmen vorhanden war, hieß es. Die Feuerwehr konnte den 55 - Jährigen mit einer Drehleiter bergen, doch der Notarzt habe nur noch seinen Tod feststellen können. Ein Kollege des Mannes sei während des Einsatzes psychologisch betreut worden. Zu Beginn des Einsatzes kam es zu einer Verwechslung des Einsatzortes : Nach Angaben der Polizei wurden die Kräfte zunächst zur Deponie Weißer Weg alarmiert, bevor sie zur Unfallstelle umgeleitet wurden.",
+      "true_city": "Chemnitz",
+      "predicted_city": "Berlin"
+    },
+    {
+      "text": "# Die Zukunft der Industrie in [ CITY ] [ CITY ] hat sich in den letzten Jahren zu einem der führenden Standorte für industrielle Innovation in Deutschland entwickelt. Die Stadt, einst bekannt für ihre Maschinenbau - Tradition, setzt heute auf Digitalisierung, Automatisierung und nachhaltige Produktion. In den modernen Industrieparks entstehen neue Fertigungsstätten, die auf fortschrittliche Technologien wie 3D - Druck, Robotik und künstliche Intelligenz setzen. Ein zentrales Innovationszentrum bringt Unternehmen, Start - ups und Forschungseinrichtungen zusammen. Hier werden digitale Zwillinge von Produktionsanlagen entwickelt, um Prozesse effizienter und ressourcenschonender zu gestalten. Die Zusammenarbeit mit der Technischen Universität sorgt dafür, dass neueste wissenschaftliche Erkenntnisse direkt in die Praxis überführt werden. Ein besonderes Augenmerk liegt auf der Entwicklung nachhaltiger Materialien und der Nutzung von Wasserstofftechnologie. Mehrere Pilotprojekte zeigen, wie grüne Energie in der industriellen Fertigung eingesetzt werden kann. Die Stadt fördert aktiv den Austausch zwischen etablierten Unternehmen und jungen Gründerinnen und Gründern, um den Strukturwandel weiter voranzutreiben. Die Transformation ehemaliger Fabrikareale in moderne Innovationsquartiere hat das Stadtbild sichtbar verändert. Heute entstehen hier Co - Working - Spaces, Labore und Veranstaltungsflächen für Messen und Konferenzen. [ CITY ] beweist, dass der Wandel von der klassischen Industrie zur Hightech - Region gelingen kann und wird damit zu einem Vorbild für andere Städte.",
+      "true_city": "Chemnitz",
+      "predicted_city": "Hamburg"
+    },
+    {
+      "text": "Medien Radio, Fernsehen, Internet In [ CITY ] ist der Radiosender Radio [ CITY ] ansässig, welcher regional auf der UKW - Frequenz 96, 2 MHz zu empfangen ist. TV Westsachsen, vormals TeleVision [ CITY ], ist ein regionaler Fernsehsender mit Sitz im Gebäude der Alten Münze am [ CITY ] er Hauptmarkt. Der Fernsehsender ging am 13. April 2004 auf Sendung. Er übernahm die Nachfolge von [ CITY ] - TV, der in Reinsdorf bei [ CITY ] gegründet wurde. Es wird ein Vollprogramm mit unterschiedlichen Themenbeiträgen und auch Videotext ausgestrahlt. Die Magazinsendung TAGaktuell wurde von der Sächsischen Landesmedienanstalt ausgezeichnet. Das Programm ist über Kabel ( analog und digital ) sowie über DVB - T Kanal 47 vertikal zu empfangen. Ebenfalls in [ CITY ] sind die Sächsischen Ausbildungs - und Erprobungskanäle ( SAEK ) ansässig. betreibt in [ CITY ] einen Internetzugang über TV - Kabel ( früher als EWT multimedia bzw. Tele Columbus ). Presse Der [ CITY ] er Pulsschlag ist das monatlich zwei Mal erscheinende Amtsblatt der Stadt [ CITY ]. Die Freie Presse, ursprünglich eine [ CITY ] er Zeitung, erschien seit 1963 in Chemnitz für den gesamten damaligen Bezirk Karl - Marx - Stadt mit einer [ CITY ] er Regionalbeilage. Mit über 650. 000 verkauften Exemplaren war sie die auflagenstärkste regionale Tageszeitung der DDR, die auch nach der deutschen Wiedervereinigung weiter erschien. Die verkaufte Auflage beträgt 173. 819 Exemplare, ein Minus von 60, 1 Prozent seit 1998. Damit ist die Freie Presse immer noch eine der stärksten Regionalzeitungen Deutschlands. Ab 17. Februar 1990 kam in [ CITY ] die Sachsenpost vom Frankenpost - Verlag aus Hof auf den Markt, die später in [ CITY ] er Tageblatt umbenannt und 1996 aus wirtschaftlichen Gründen vom Markt genommen wurde. Mittwochs und samstags erscheint das Anzeigenblatt Blick. KOMPASS, das regionale Lifestyle - und Stadtmagazin, erscheint seit dem 1. Februar 2007 und informiert monatlich unter anderem über das Zeitgeschehen und kulturelle Termine. Gesundheitswesen und - wirtschaft Das Heinrich - Braun - Klinikum [ CITY ] ( HBK ) wurde 1921 eröffnet. Das mehrere Gebäude umfassende Areal erhielt 1934 den Namen des Gründers Heinrich Braun. Bis 1989 hatte es die Funktion",
+      "true_city": "Hamburg",
+      "predicted_city": "Chemnitz"
+    }
+  ]
+}

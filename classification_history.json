@@ -1,0 +1,219 @@
+[
+  {
+    "input_text": "Zum Jahreswechsel 2025 steigen in der norddeutschen Hafenstadt die Kos- ten für Müllabfuhr, Gehwegreinigung und die Beseitigung von Schmutz- und Regenwasser. Die Müllgebühren erhöhen sich um rund 4,8 Prozent, die Reinigung der öffentlichen Wege um etwa 5,6 Prozent. Zudem wird die Gebühr für die Ableitung von Schmutz- und Regen- wasser um etwa 4,3 Prozent angehoben. Immobilienbesitzer müssen sich zudem auf neue Grundsteuer-Hebesätze einstellen, die vor allem bei unbebauten, aber baureifen Grundstü- cken deutlich steigen, um Spekulationen einzudämmen und den Wohnungsbau zu fördern. Auch die Preise im öffentlichen Nahverkehr steigen um durchschnittlich 5,2 Prozent.\",",
+    "predicted_city": "Hamburg",
+    "confidence": 0.993943989276886,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "\"Im Norden Deutschlands entstand im 8. Jahrhundert an der Mündung zweier Flüsse eine kleine Befestigungsanlage, die als Keimzelle einer der bedeutendsten Hafenstädte Europas gilt. Die günstige Lage an einem breiten Strom, der Zugang zur Nord- see bietet, begünstigte schon früh den Aufstieg zu einem wichtigen Handelsplatz. Im Mittel- alter erhielt die Stadt das kaiserliche Privileg eines Freihafens, was sie zu einem Zentrum des Fernhandels und zu einem führenden Mitglied eines mächtigen Kaufmannsbundes machte.\",",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9879679679870605,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "\"Geschichte reicht bis ins 8. Jahrhundert zurück, als an der Mündung von Alster und Bille die Hammaburg errichtet wurde – eine Befestigungsanlage, die als Ursprung der Stadt gilt. Die günstige Lage an Elbe und Alster machte den Ort früh zu einem wichtigen Handelsplatz. Im Mittelalter entwickelte sich Hamburg zu einer der bedeutendsten Handels- städte Europas, begünstigt durch den Hafen und die jahrhundertelange politische Unabhän- gigkeit als Freie und Hansestadt\",",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9943516254425049,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "\"Eine norddeutsche Metropole ist geprägt von einem historischen Lager- hausviertel, das auf Holzpfählen im Wasser errichtet wurde und heute zum UNESCO- Welterbe zählt. Die Stadt besitzt über 2.500 Brücken, mehr als jede andere europäische Stadt, und wird von der Elbe sowie zahlreichen Fleeten und Kanälen durchzogen. Am Hafen steht ein modernes Konzerthaus mit einer markanten Glasfassade und einer Aussichtsplatt- form, die einen spektakulären Blick über den Hafen und die Stadt bietet. Jährlich im Mai zieht das größte Hafenfest Europas mit einer Einlaufparade von Traditionsseglern, Kreuz- fahrtschiffen und einem großen Feuerwerk Millionen Besucher an.\",",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9930262565612793,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "\"Eine norddeutsche Großstadt ist berühmt für ihre lebendige Musicalszene, die an mehreren Theatern direkt am Wasser stattfindet. Besucher erreichen die Spielstätten oft mit Fähren, die über die Elbe pendeln. Im berühmten Vergnügungsviertel mit seiner le- gendären „sündigsten Meile“ finden regelmäßig große Clubfestivals und Straßenfeste statt. Die Stadt ist außerdem bekannt für ihre Speicherstadt mit roten Backsteinbauten, die von Wasserläufen durchzogen ist, und für den Hafen, der einer der größten Seehäfen Europas ist.Text 3Diese Stadt ist geprägt von einer Mischung aus maritimer Tradition und moderner Architektur: Im historischen Lagerhauskomplex lagern einst Kaffee, Tee und Gewürze, heute sind dort Museen, Büros und Restaurants untergebracht. Direkt am Hafen steht ein neues Wahrzeichen, das mit seiner Glasfassade und der spektakulären Aussichtsplattform Besucher aus aller Welt anzieht. Jährlich im Mai findet hier das größte Hafenfest Europas statt, bei dem Segelschiffe, Kreuzfahrtschiffe und Schlepper in einer großen Parade die Elbe entlangfahren.Text 4Eine Stadt im Norden besitzt ein einzigartiges Ensemble aus Fleeten, Kanälen und Brücken, das ihr den Spitznamen „Venedig des Nordens“ eingebracht hat. Das historische Lagerhausviertel mit seinen roten Klinkerbauten ist UNESCO-Weltkulturerbe und wird von schiffbaren Wasserwegen durchzogen. Am Hafen liegt ein modernes Konzert- haus mit einem wellenförmigen Dach, das auf einem alten Kaispeicher errichtet wurde. Das jährliche Hafenfest lockt mit einer Einlaufparade von Traditionsseglern, Feuerwerk und ma- ritimen Veranstaltungen Millionen Besucher an.Wenn du möchtest, kann ich dir gerne noch weitere Texte mit dieser eindeutigen Kombination liefern – oder auch gezielt auf einzelne Stadtteile, historische Ereignisse oder aktuelle Projekte eingehen.Sag einfach Be- scheid!ÄhnlichWie kann ich meine Texte so gestalten, dass sie nur Hamburg betreffenWel- che Schlüsselwörter helfen mir, Hamburg-spezifische Inhalte zu erkennenWarum sind be- stimmte Themen nur in Bezug auf Hamburg relevant für mein ModulWie finde ich heraus, ob ein Text wirklich ausschließlich über Hamburg handeltWas sind typische Merkmale, die einen Text eindeutig als Hamburg-bezogen kennzeichnen\",",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9952552318572998,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "\"Die Stadt ist ein Zentrum für Musicals und Shows: Ein modernes Theater im Hafen zeigt ab Herbst wieder ein spektakuläres Stück, in dem Akrobatik und Musik die Geschichte eines Jungen erzählen, der im Dschungel aufwächst. Über das Jahr hinweg gastieren internationale Stars und Bands in großen Arenen und auf Open-Air-Bühnen, da- runter legendäre Künstlerinnen und Künstler, die seit Jahrzehnten Musikgeschichte schrei- ben.\",",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9911082983016968,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "\"Im Norden Deutschlands liegt eine Stadt, deren Herz für die Schifffahrt schlägt. Jedes Jahr im Mai verwandelt sich das Flussufer in eine riesige Festmeile, wenn das größte Hafenfest Europas gefeiert wird. Dann ziehen historische Windjammer, moderne Kreuzfahrtschiffe und bunte Barkassen in einer großen Parade vorbei, während am Abend ein spektakuläres Feuerwerk den Himmel über dem Wasser erleuchtet. Das maritim ge- prägte Stadtbild ist von roten Backsteinbauten, unzähligen Brücken und einem weltberühm- ten Vergnügungsviertel geprägt, das nachts niemals zur Ruhe kommt.\",",
+    "predicted_city": "Hamburg",
+    "confidence": 0.990835428237915,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": " \"Der Sommer 2025 ist in Berlin geprägt von zahlreichen Open-Air-Events: Die Fête de la Musique am 21. Juni bringt Musiker:innen aller Stilrichtungen auf die Straßen, Plätze und Parks der Stadt. Das Open-Air-Konzert der Staatsoper auf dem Bebelplatz sowie das Saisonabschlusskonzert der Berliner Philharmoniker in der Waldbühne sind weitere mu- sikalische Höhepunkte. Auch das Lollapalooza-Festival und das Musikfest Berlin locken mit internationalen Stars und vielfältigen Konzerten Besucher:innen aus aller Welt an\",",
+    "predicted_city": "Berlin",
+    "confidence": 0.9881908893585205,
+    "is_correct": true,
+    "actual_city": "Berlin"
+  },
+  {
+    "input_text": "\"Im Jahr 2025 steht die Hauptstadt ganz im Zeichen bedeutender Jubiläen: Die Museumsinsel feiert ihr 200-jähriges Bestehen mit Sonderausstellungen und einem gro- ßen Festprogramm. Die East Side Gallery, das längste erhaltene Teilstück der Berliner Mauer, wird 35 Jahre alt und lädt mit Kunstaktionen und Führungen zum Entdecken ein. Auch das Ende des Zweiten Weltkriegs jährt sich zum 80. Mal – zahlreiche Gedenkveran- staltungen und Ausstellungen setzen sich mit der wechselvollen Geschichte der Stadt aus- einander\",",
+    "predicted_city": "Berlin",
+    "confidence": 0.985959529876709,
+    "is_correct": true,
+    "actual_city": "Berlin"
+  },
+  {
+    "input_text": "    \"Ein breit angelegtes Beteiligungsprojekt lädt lokale und internationale Ak- teurinnen und Akteure dazu ein, Ideen und Projekte zu entwickeln, die sich mit Themen wie Demokratie, Teilhabe und europäischer Zusammenarbeit beschäftigen. Die Programme richten sich an alle Generationen und setzen auf Kooperationen mit Nachbarländern wie Polen und Tschechien. Ziel ist es, die Stadt als Ort des Austauschs, der Vielfalt und der europäischen Identität zu stärken.\",",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.9503346681594849,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  },
+  {
+    "input_text": "\"Zu den Leuchtturmprojekten des Kulturjahres gehört ein Kunst- und Skulp- turenweg, der unter dem Namen „Purple Path“ rund 30 Kunstwerke in der Stadt und Region verbindet. Ein weiteres zentrales Projekt ist ein Netzwerk für Kreative, Handwerker und Un- ternehmer, das neue Treffpunkte und Austauschmöglichkeiten schafft. Diese Initiativen för- dern Innovation, Kreativität und die Mitmachkultur – und machen die Stadt zu einem leben- digen, gastfreundlichen und überraschenden Ort im Herzen Europas.\",",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.9435983300209045,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  },
+  {
+    "input_text": "\"Im Jahr 2025 steht eine ostdeutsche Großstadt im Zentrum des europäi- schen Kulturgeschehens. Über 150 Projekte und mehr als 1.000 Veranstaltungen werden gemeinsam mit 38 Kommunen aus der Region, dem Erzgebirge, Mittelsachsen und dem Zwickauer Land umgesetzt. Das sogenannte Regionalschaufenster im Stadtzentrum macht die Vielfalt der Region sichtbar: Auf zehn Stelen präsentieren sich alle beteiligten Städte und Gemeinden mit Informationen, Veranstaltungshinweisen und digitalen Angeboten. Zwei der zentralen Hauptprojekte sind ein Kunst- und Skulpturenweg, der die gesamte Region verbindet, und ein Netzwerk für Kreative, Handwerk und Unternehmertum.\",",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.990875244140625,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  },
+  {
+    "input_text": "\"Die Rolle als Kulturhauptstadt ist auch ein umfassendes Stadtentwicklungs- projekt. Auf insgesamt 30 sogenannten Interventionsflächen werden Orte in der Stadt und Region neu gestaltet – von einer traditionsreichen Fabrik, die zum Besucherzentrum wird, über einen neuen Stadtteilpark an einem renaturierten Bach bis hin zu Festplätzen in länd- lichen Stadtteilen. Ziel ist es, vergessene Orte zu beleben, neue soziale Räume zu schaffen und nachhaltige Impulse für die Zukunft zu setzen. Das Gesamtbudget für das Programm und die Entwicklung dieser Flächen beträgt rund 116 Millionen Euro, wovon etwa 70 Prozent aus Fördermitteln und Partnerschaften stammen.\",",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.9684971570968628,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  },
+  {
+    "input_text": "\"Der Start des Kulturjahres wurde am 18. Januar 2025 mit einer großen Feier begangen, zu der schätzungsweise 80.000 Menschen aus dem In- und Ausland in die In- nenstadt kamen. Das Fest bot ein vielfältiges Bühnenprogramm, Ausstellungen und Aktio- nen, die den europäischen Geist und die Offenheit der Stadt unterstrichen. Im Laufe des Jahres werden zahlreiche Events, Festivals und Kunstprojekte die kulturelle Vielfalt und die europäische Vernetzung der Stadtgesellschaft sichtbar machen.\",",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.9723614454269409,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  },
+  {
+    "input_text": "Im hohen Norn Deutschlands entwickelte sich eine Statt an einem breiten Fluss, deren Geschichte von Handell, Schifffahrt und Unabhängigkeit geprägt ist. Bereits im Mittelalter war sie Teil eines mächtigen Städtebundes, der den Handel zwischen Nord- und Ostsee dominierte. Der Haffe – heute einer der größten Europas – war schon damals das Tor zur Welt und brachte Woldstand sowie kulturelle Vielfalt.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9612790942192078,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "Im Norn Deutschlands entstand im 8. Jahrhundert an der Mündug zweier Flüsse eine kleine Befestigungsanlage, die als Keimzelle einer der bedeutendsten Hafenstädte Europas gilt. Die günstige Lage an einem breiten Strom, der Zugang zur Nordsee bietet, begünstigte schon früh den Aufstieg zu einem wichtigen Handelsplatz. Im Mittelalter erhielt die Stadt das kaiserliche Privileg eines Freihafns, was sie zu einem Zentrum des Fernhandels und zu einem führenden Mitglied eines mächtigen Kaufmannsbundess machte.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.98797208070755,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "Zum Jahreswechsel 2025 steigen in der norddeutschen Hafenstadt die koten für Müllabfuhr, Gehwegreiniging und die Beseitigung von Schmutz- und Regenwasse. Die Müllgebühern erhöhen sich um rund 4,8 Prozent, die Reinigung der öffentlichen Wege um etwa 5,6 Prozent. Zudem wird die Gebühr für die Ableitung von Schmutz- und Regenwasser um etwa 4,3 Prozent anhebn. Immobilienbeszer müssen sich zudem auf neue Grundsteuer-Hebessätze einstellen, die vor allem bei unbebauten, aber baureifen Grundstücken deutlich steigen, um Spekulationen einzudämmen und den Wohnungsbau zu fördern. Auch die Preise im öffentlichen Nahverkehr steigen um durchschnittlich 5,2 Prozent.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9937703013420105,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "Die Stadt wurde immer wieder von Katastrophen heimgesucht: Ein verheeerender Brand im 19. Jahrhundert zerstörote weite Teile der Altstatd, und im Zweiten Weltkrieg legten Luftangriffe große Flächen in Trümmer. Doch stets folgte ein kraftvoller Wiederaufbau. Heute prägen das historische Speicherensemble, die vielen Wasserwege und ein modernes konzertaus am Hafen das Bild einer weltoffenen Metropole, die Tradition und Innovaton vereint.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9822524785995483,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "Eine norddeutsche Metropole ist geprägt von einem historischnen Lagerhausviertel, das auf Holzpfähln im Wasser errichtet wurde und heute zum UNESCO-Welterbe zählt. Die Stadt besitzt über 2.500 Brücken, mehr als jede andere europäische Stadt, und wird von der Elbe sowie zahlreichen Fleeten und Kanälen durchzogen. Am Hafen steht ein modernes Konzerthaus mit einer markanten Glasfsassade und einer Aussichtsplattform, die einen spektakulären Blick über den Hafen und die Stadt bietet. Jährlich im Mai zieht das größte Hafenfest Europas mit einer Einlaufparade von Traditionsseglern, Kreuzfahrtschiffen und einem großen Feurwerk Millionen Besucher an.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9921431541442871,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "Eine norddeutsche Grossstadt ist berühmt für ihre lebendige Musicalsene, die an mehreren Theatern direkt am Wasser stattfindet. Besucher erreichen die Spielstätten oft mit Fähnren, die über die Elbe pendeln. Im berühmten Vergnügungsviertel mit seiner legdären „sündichten Meile“ finden regelmäßig große Clubfestivals und Straßenfeste statt. Die Stadt ist außerdem bekannt für ihre Speicherstadt mit roten Backsteinbauten, die von Wasserläufen durchzogen ist, und für den Hafen, der einer der größten Seehäfen Europas ist.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9851033091545105,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "Eine Stadt im Norden besitzt ein Eizigartiges Ensemble aus Fletten, Kanälen und Brücken, das ihr den Spitznamn „Venedig des Nordens“ eingebracht hat. Das historische Lagerhausviertel mit seinen roten Klinkerbauten ist UNESCO-Weltkulturerbe und wird von schiffbaren Wasserwegen durchzogen. Am Hafen liegt ein modernes Konzerthuas mit einem wellenförmigen Dach, das auf einem alten Kaispeicher errichtet wurde. Das jährliche Hafenfest lockt mit einer Einlaufparade von Traditionsseglern, Feuerwerk und maritimen Veranstaltungen Millionen Besucher an.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.992590069770813,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "Die Stadt ist ein Zentum für Musicalls und Shows: Ein modernes Theater im Hafen zeigt ab Herbst wieder ein spektakuläres Stück, in dem Akrobatk und Musik die Geschichte eines Jungen erzählen, der im Dschungel aufwächst. Über das Jahr hinweg gastieren Interantionale Stars und Bands in großen Arenen und auf Open-Air-Bühnen, darunter legendäre Künstlerinnen und Künstler, die seit Jahrzehnten Musikgeschichte schreiben.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9919186234474182,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "Im Norden Deutschlands liegt eine Stadt, deren Herz für die Schifffart schlägt. Jedes Jahr im Mai verwandelt sich das Flussufer in eine riesige Festmeile, wenn das größte Hafenfest Europas gefeiert wird. Dann ziehen historische Windjammer, moderne Kreuzfahrtschiffe und bunte Barkassen in einer großen Parade vorbei, während am Abend ein spektakuläres Feurwerk den Himmel über dem Wasser erleuchtet. Das maritim geprägte Stadtbild ist von roten Backsteinbauten, unzähligen Brücken und einem weltberühmten Vergnügungsviertel geprägt, das nachts niemals zur Ruhekommt.",
+    "predicted_city": "Hamburg",
+    "confidence": 0.9902862906455994,
+    "is_correct": true,
+    "actual_city": "Hamburg"
+  },
+  {
+    "input_text": "Der Sommer 2025 ist in Berlin geprägt von zahlreichen Open-Air-Events: Die Fête de la Musique am 21. Juni bringt Musiker:innen aller Stilrichtungen auf die Straßen, Plätze und Parks der Stadt. Das Open-Air-Konzert der Staatsoper auf dem Bebelplatz sowie das Saisonabschlusskonzert der Berliner Philharmoniker in der Waldbühne sind weitere musiklische Höhepunkte. Auch das Lollapalooza-Festival und das Musikfest Berlin locken mit internationalen Stars und vielfältigen Konzerten Besucher:innen aus aller Welt an.",
+    "predicted_city": "Berlin",
+    "confidence": 0.9866516590118408,
+    "is_correct": true,
+    "actual_city": "Berlin"
+  },
+  {
+    "input_text": "Im September 2025 wird die Hauptstadt wieder zum Zentrum der internationalen Kunstszene. Die Berlin Art Week, die vom 10. bis 14. September stattfindet, vereint über 100 Partnerinstitutionen – von Museen und Ausstellungshäusern über Messen und Galerien bis zu Projekträumen und Privatsammlungen. Das Festival bietet ein vielfältiges Programm aus Ausstellungen, Performances und Diskussionsruden. Für die Sektion „Featured“ können bis Ende Mai 2025 innovative Projektinitiativen eingereicht werden, um die künstlerische Vielfalt der Stadt zu zeigen",
+    "predicted_city": "Berlin",
+    "confidence": 0.9798871278762817,
+    "is_correct": true,
+    "actual_city": "Berlin"
+  },
+  {
+    "input_text": "Im Jahr 2025 steht die Hauptstadt ganz im Zeichen bedeutender Jubiläen: Die Museumsinsel feiert ihr 200-jähriges Bestehen mit Sonderausstellungen und einem großen Festprogramm. Die East Side Gallery, das längste erhaltene Teilstück der Berliner Mauer, wird 35 Jahre alt und lädt mit Kunstaktionen und Führungen zum Entdecken ein. Auch das Ende des Zweiten Weltkriegs jährt sich zum 80. Mal – zahlreiche Gedenkveranstaltunen und Ausstellungen setzen sich mit der wechselvollen Geschichte der Stadt auseinander.",
+    "predicted_city": "Berlin",
+    "confidence": 0.9864199757575989,
+    "is_correct": true,
+    "actual_city": "Berlin"
+  },
+  {
+    "input_text": "Ein breit angelegtes Beteiligungsprojekt lädt lokale und internationale Akteurinnen und Akteure dazu ein, Ideen und Projekte zu entwickeln, die sich mit Themen wie Demokratie, Teilhabe und europäischer Zusammenarbeit beschäfigen. Die Programme richten sich an alle Generationen und setzen auf Kooperationen mit Nachbarländern wie Polen und Tschechien. Ziel ist es, die Stadt als Ort des Austauschs, der Vielfalt und der europäischen Identität zu stärken.",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.9549528956413269,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  },
+  {
+    "input_text": "Zu den Leuchtturmprojekten des Kulturjahres gehört ein Kunst- und Skulpturenweg, der unter dem Namen „Purple Path“ rund 30 Kunstwerke in der Stadt und Region verbindet. Ein weiteres zentrales Projekt ist ein Netzwerk für Kreative, Handwerker und Unternehmer, das neue Treffpunkte und Austauschmöglichkeiten schafft. Diese Initiativen fördern Innovaton, Kreativität und die Mitmachkultur – und machen die Stadt zu einem lebendigen, gastfreundlichen und überraschenden Ort im Herzen Europas.",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.963083028793335,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  },
+  {
+    "input_text": "Im Jahr 2025 steht eine ostdeutsche Großstadt im Zentrum des europäischen Kulturgeschehens. Über 150 Projekte und mehr als 1.000 Veranstaltungen werden gemeinsam mit 38 Kommunen aus der Region, dem Erzgebirge, Mittelsachsen und dem Zwickauer Land umgesetzt. Das sogenannte Regionalschaufenster im Stadtzentrum macht die Vielfalt der Region sichtbar: Auf zehn Stelen präsentieren sich alle beteiligten Städte und Gemeinden mit Informationen, Veranstaltungshinweisen und digitalen Angeboten. Zwei der zentralen Hauptprojekte sind ein Kunst- und Skulpturenweg, der die gesamte Region verbindet, und ein Netzwerk für Kreative, Handwerk und Unternehmertum.",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.9906617999076843,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  },
+  {
+    "input_text": "Die Rolle als Kulturhauptstadt ist auch ein umfassendes Stadtentwicklungsprojekt. Auf insgesamt 30 sogenannten Interventionsflächen werden Orte in der Stadt und Region neu gestaltet – von einer traditionsreichen Fabrik, die zum Besucherzentrum wird, über einen neuen Stadtteilpark an einem renaturierten Bach bis hin zu Festplätzen in ländlichen Stadtteilen. Ziel ist es, vergessene Orte zu beleben, neue soziale Räume zu schaffen und nachhaltige Impulse für die Zukunft zu setzen. Das Gesamtbudget für das Programm und die Entwicklung dieser Flächen beträgt rund 116 Millionen Euro, wovon etwa 70 Prozent aus Fördermiddelen und Partnerschaften stammen.",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.9709842801094055,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  },
+  {
+    "input_text": "Der Start des Kulturjahres wurde am 18. Januar 2025 mit einer großen Feier begangen, zu der schätzungsweise 80.000 Menschen aus dem In- und Ausland in die Innenstadt kamen. Das Fest bot ein vielfältiges Bühnenprogramm, Ausstellungen und Aktio- nen, die den europäischen Geist und die Offenheit der Stadt unterstrichen. Im Laufe des Jahres werden zahlreiche Events, Festivals und Kunstprojekte die kulturelle Vielfalt und die europäische Vernetzung der Stadtgesellschaft sichtbar machen.",
+    "predicted_city": "Chemnitz",
+    "confidence": 0.974647045135498,
+    "is_correct": true,
+    "actual_city": "Chemnitz"
+  }
+]

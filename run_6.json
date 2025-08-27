@@ -1,0 +1,34 @@
+{
+  "run": 6,
+  "accuracy": 0.96875,
+  "classification_report": "              precision    recall  f1-score   support\n\n      Berlin       0.95      1.00      0.98        20\n    Chemnitz       0.95      1.00      0.98        20\n     Hamburg       1.00      0.92      0.96        24\n\n    accuracy                           0.97        64\n   macro avg       0.97      0.97      0.97        64\nweighted avg       0.97      0.97      0.97        64\n",
+  "confusion_matrix": [
+    [
+      20,
+      0,
+      0
+    ],
+    [
+      0,
+      20,
+      0
+    ],
+    [
+      1,
+      1,
+      22
+    ]
+  ],
+  "misclassified_samples": [
+    {
+      "text": "[ CITY ] Invest erzielt Rekordinvestition in Höhe von 828 Millionen Euro 28. Februar 2023 52 neue Unternehmen haben sich im vergangenen Jahr dank der Wirtschaftsförderungsagentur in der Stadt angesiedelt Zweiundfünfzig neue Unternehmen haben sich im vergangenen Jahr in [ CITY ] niedergelassen und mit Unterstützung der Wirtschaftsförderungsgesellschaft [ CITY ] Invest einen Rekordbetrag von 828 Millionen Euro investiert, wie aus den am Dienstag ( 28. Februar 2023 ) im Rahmen einer Pressekonferenz im Rathaus vorgestellten Jahreszahlen hervorgeht. In [ CITY ] wurden dadurch rund 7. 400 Arbeitsplätze geschaffen bzw. gesichert. Die Auswirkungen der Pandemie und die geopolitische Lage, die durch den russischen Zermürbungskrieg gegen die Ukraine verursacht wurde, sorgen für ein gedämpftes Investitionsklima. Zu restriktiv wirken sich die gestiegenen Bau - und Energiekosten sowie die zu erwartenden Kosten für Projekte im Immobilienbereich aus. Rekord - Investitionsvolumen [ CITY ] ist als Wirtschaftsstandort national und international nach wie vor gefragt. [ CITY ] Invest half 52 neuen Unternehmen, darunter 25 ausländische Firmen, sich in [ CITY ] anzusiedeln und 32 Unternehmen in der Stadt zu expandieren. Das Investitionsvolumen stieg im Jahr 2022 von 752 Mio. EUR im Jahr 2021 auf den Rekordwert von 828 Mio. EUR. Bei den meisten der 960 unterstützten Unternehmen handelte es sich um deutsche KMU ( rund 600 ) oder Start - ups ( rund 200 ). Insgesamt 12, 2 Hektar Gewerbefläche hat [ CITY ] Invest im vergangenen Jahr an Unternehmen vermittelt. Davon waren rund 3, 7 Hektar privat und rund 8, 4 Hektar städtisch, darunter sechs Flächen im Eigentum der [ CITY ] Invest Entwicklungsgesellschaft. 7. 400 Arbeitsplätze vor allem in Zukunftsbranchen gesichert \" Gut 7. 400 Menschen haben einen neuen Job gefunden oder ihre Arbeitsplätze sind gesichert. Das ist ein großer Erfolg, denn wir binden Arbeitskräfte und Fachkräfte in [ CITY ] \", sagte Wirtschaftssenatorin Dr. Melanie Leonhard. Die meisten neuen Arbeitsplätze wurden in den Bereichen Verkehr, Biowissenschaften, Energie und Logistik geschaffen. \" In diesen Branchen herrscht viel Dynamik, und [ CITY ] ist für Zukunftsbranchen gefragt. Neben Arbeitsplätzen und Steuereinnahmen schaffen Unternehmensansiedlungen auch zusätzliche Vorteile, indem sie den Innovationsstandort [ CITY ] stärken. Gleichzeitig wird damit der Grundstein für weitere Wertschöpfung von Unternehmen und Innovationen gelegt, die die Lebens",
+      "true_city": "Hamburg",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Bildung ist entscheidend Die Teilhabe aller an Bildung ist ein wichtiges Ziel unserer Politik. Alle Kinder und Jugendliche sollen unabhängig von Herkunft und Einkommen der Eltern gute Startchancen haben. Wir wollen Aufstieg durch Bildung ermöglichen und deshalb ein gerechtes und leistungsstarkes Bildungssystem, das die Individualität und Begabung jedes Kindes fördert. Im Zentrum des Bereichs Bildung stehen neben der [ CITY ] er Schulpolitik die berufliche Bildung mit den wichtigen Bereichen Ausbildung und dem Übergang von der Schule zum Beruf sowie die Erwachsenenbildung. Mit der Regierungsübernahme im Jahr 2011 haben SPD - Fraktion und - Senat [ CITY ] s Bildungssystem an entscheidenden Stellen weiterentwickelt und so für mehr Bildungsqualität und Bildungsgerechtigkeit gesorgt. Diesen Prozess setzen wir auch in der 22. Legislaturperiode fort. Person, die etwas auf einen Block schreibt shutterstock. vom / panitanphoto Ganztag Wir haben das Ganztagsangebot ausgebaut und es von 8. 00 bis 16. 00 Uhr kostenlos gemacht. Mittlerweile nutzen fast 85 Prozent der Schüler : innen das Ganztagsangebot. Die Nachmittagsangebote werden mit dem Ziel weiterentwickelt, die schulische Bildung der Kinder und Jugendlichen auch im Rahmen des Nachmittags zu verbessern. Dazu gehört, dass die zusätzliche Zeit im Ganztag in Zukunft stärker für weitere Lernangebote und Hilfe bei den Schulaufgaben genutzt werden soll. Hausaufgaben sollen künftig zu Schulaufgaben werden und während des Nachmittags in der Schule unter pädagogisch qualifizierter Anleitung erarbeitet werden. Starke Schulen in schwieriger Lage Ein zentrales bildungspolitisches Ziel der [ CITY ] er SPD - Fraktion ist und bleibt die Abkopplung des Bildungs - und Schulerfolgs von der sozialen Herkunft der Kinder. Schulen mit besonderen Problemlagen werden wir verstärkt in den Fokus nehmen : Schulen in sozial benachteiligten Stadtteilen bekommen jetzt deutlich mehr Lehrkräfte, um mehr Förderstunden, kleinere Klassen und eine nachhaltige Schulqualitätsentwicklung zu organisieren. Dieses Unterstützungsprogramm werden wir weiter ausbauen und dazu die Mittel entsprechend erhöhen. Moderner und guter Unterricht für das Lernen in der digitalen Welt Wir verbessern die Qualität des Unterrichts kontinuierlich, indem wir seit 2011 die Zahl der Stellen für Pädagog : innen an allgemeinen Schulen um 30 Prozent erhöht haben, zusätzliche Unterrichtsstunden in den Fächern Mathematik und Deutsch eingeführt haben sowie die Klassengrößen verringert haben. Die Corona - Krise hat deutlich gemacht, wie wichtig die Digitalisierung der [ CITY ] er Schulen ist. Daher bleibt das Lernen in einer digitalen Welt weiterhin einer der großen Schwerpunkte in der Bildungspolitik. Alle Schüler : innen sollen bestmöglich",
+      "true_city": "Hamburg",
+      "predicted_city": "Berlin"
+    }
+  ]
+}

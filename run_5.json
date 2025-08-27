@@ -1,0 +1,29 @@
+{
+  "run": 5,
+  "accuracy": 0.984375,
+  "classification_report": "              precision    recall  f1-score   support\n\n      Berlin       1.00      0.95      0.97        20\n    Chemnitz       1.00      1.00      1.00        20\n     Hamburg       0.96      1.00      0.98        24\n\n    accuracy                           0.98        64\n   macro avg       0.99      0.98      0.98        64\nweighted avg       0.98      0.98      0.98        64\n",
+  "confusion_matrix": [
+    [
+      19,
+      0,
+      1
+    ],
+    [
+      0,
+      20,
+      0
+    ],
+    [
+      0,
+      0,
+      24
+    ]
+  ],
+  "misclassified_samples": [
+    {
+      "text": "[ CITY ] befindet sich in der gemäßigten Klimazone am Übergang vom maritimen zum kontinentalen Klima. Die Stadt ist das im Jahresdurchschnitt wärmste Bundesland in Deutschland. Seit Beginn des 20. Jahrhunderts schwanken die Jahresmitteltemperaturen mit steigender Tendenz zwischen 7 und 11. Die wärmsten Monate sind Juli und August, die kältesten Januar und Februar ( Durchschnitt 1991 2021 ). Der bisherige Temperaturhöchstwert in [ CITY ] wurde mit 38, 9 am 7. August 2015 an der Station Kaniswall gemessen. Der meiste Niederschlag fällt im Juli, der geringste im Februar. Hinsichtlich der Windgeschwindigkeiten und der Windrichtungsverteilung ist ein zweigeteiltes Maximum zu verzeichnen. Demnach wird in [ CITY ] am häufigsten Nordwest - und Südwestwind beobachtet, der besonders im Winter mit höheren Geschwindigkeiten verbunden ist und meist maritime, gut durchmischte und saubere Meeresluft herantransportiert. Das zweite Maximum aus Südost und Ost ist oft kennzeichnend für Hochdruckwetterlagen kontinentaler Luftmassen, was je nach Jahreszeit zu verhältnismäßig heißen bzw. kalten Tagen führen kann. Die geringen Höhenunterschiede innerhalb der Stadt bewirken eigentlich ein eher homogenes Stadtklima, allerdings führt die dichte Bebauung in der Stadt zu teilweise deutlichen Temperaturunterschieden im Vergleich zu großen innerstädtischen Freiflächen und vor allem zu den ausgedehnten Landwirtschaftsflächen im Umland. Vor allem in Sommernächten werden Temperaturunterschiede von bis zu 10 gemessen. Insgesamt jedoch profitiert [ CITY ] auch in diesem Zusammenhang von seinem großen Grünflächenanteil : etwa 39 Prozent des Stadtgebietes sind Grün - und Erholungsflächen. In [ CITY ] stehen über 900. 000 Straßenbäume und Bäume in öffentlichen Anlagen. Die meisten davon sind Laubbäume. Darüber hinaus gibt es zahlreiche Bäume auf privaten Flächen und in Wäldern. Die große Anzahl kleinerer Freiflächen",
+      "true_city": "Berlin",
+      "predicted_city": "Hamburg"
+    }
+  ]
+}

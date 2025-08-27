@@ -1,0 +1,59 @@
+{
+  "run": 1,
+  "accuracy": 0.890625,
+  "classification_report": "              precision    recall  f1-score   support\n\n      Berlin       0.89      0.80      0.84        20\n    Chemnitz       0.80      1.00      0.89        20\n     Hamburg       1.00      0.88      0.93        24\n\n    accuracy                           0.89        64\n   macro avg       0.90      0.89      0.89        64\nweighted avg       0.90      0.89      0.89        64\n",
+  "confusion_matrix": [
+    [
+      16,
+      4,
+      0
+    ],
+    [
+      0,
+      20,
+      0
+    ],
+    [
+      2,
+      1,
+      21
+    ]
+  ],
+  "misclassified_samples": [
+    {
+      "text": "Nach der Einnahme der Stadt durch die Rote Armee und der bedingungslosen Kapitulation der Wehrmacht am 8. Mai 1945 wurde [ CITY ] gemäß den Londoner Protokollen der Gliederung ganz Deutschlands in Besatzungszonen entsprechend im Juli 1945 in vier Sektoren aufgeteilt. Es entstanden die Sektoren der USA, des Vereinigten Königreichs, Frankreichs und der Sowjetunion. Weder in der Konferenz von Jalta noch im Potsdamer Abkommen war eine förmliche Teilung in Westsektoren und Ostsektor ( West - [ CITY ] und Ost - [ CITY ] ) vorgesehen. Diese Gruppierung ergab sich 1945 / 46 unter anderem durch das gemeinsame Interesse der West - Alliierten. Die Sowjetische Militäradministration in Deutschland schuf schon am 19. Mai 1945 einen Magistrat für [ CITY ]. Er bestand aus einem parteilosen Oberbürgermeister, vier Stellvertretern und 16 Stadträten. Für Groß - [ CITY ] blieb allerdings eine Gesamtverantwortung aller vier Hauptsiegermächte bestehen. Es wurde versucht, nicht mehr gewollte Straßennamen der Vorkriegszeit in einem neuen Stadtplan umzubenennen, was nur teilweise erfolgte. Die zunehmenden politischen Differenzen zwischen den Westalliierten und der Sowjetunion führten nach einer Währungsreform in den West - Sektoren 1948 / 1949 zu einer wirtschaftlichen Blockade West - [ CITY ] s, welche die Westalliierten mit der [ CITY ] - Luftbrücke überwanden.",
+      "true_city": "Berlin",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Wir sind ein kleines Juwel, das zu glänzen beginnt : Künstlerateliers im [ CITY ] er Südwesten sind gerettet Mit einem Millionen - Förderbescheid ist das einzige Atelierhaus in Steglitz - Zehlendorf wohl über den Berg. Ursprünglich sollten aus den Werkstätten im Studentendorf Schlachtensee wieder Wohnungen werden. Claudia Sawallisch und Wolf Schmelter sind in Feierlaune : Die Bildhauerin und Papierkünstlerin und der Fotograf und Videokünstler können wohl ebenso wie ihre aktuell 13 Kolleginnen und Kollegen auf lange Sicht in ihren Ateliers weiterarbeiten. Die 15 kreativen Köpfe haben ihre Werkstätten im einzigen Atelierhaus Steglitz - Zehlendorfs, den K19 Studios. Das Haus ist Teil des denkmalgeschützten Studentendorfs Schlachtensee.",
+      "true_city": "Berlin",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "In [ CITY ] existieren an stark befahrenen Straßen angelegte Radwege und Fahrradstreifen. Einige ruhigere Straßen wurden als Fahrradstraßen gekennzeichnet. Der Anteil des Fahrradverkehrs am Gesamtaufkommen des Verkehrs in [ CITY ] hat sich seit 1992 mehr als verdoppelt. Im Jahr 1992 wurden etwa sieben Prozent aller Wege mit dem Fahrrad zurückgelegt, 2009 waren es bereits etwa 15 %. Die durchschnittliche Entfernung einer mit dem Rad zurückgelegten Strecke beträgt 3, 7 Kilometer. 2013 wurden täglich etwa 1, 5 Millionen Wege, rund 13 % des gesamten Personen - Transportaufkommens, gemessen in Wegen der Einwohner ( Modal - Split ), mit dem Fahrrad als Hauptverkehrsmittel zurückgelegt. [ CITY ] zählt damit zu den Millionenmetropolen in Europa mit eher überdurchschnittlich vielen Fahrradnutzern. Die Radfahrstreifen wurden von insgesamt 50 Kilometer im Jahr 2004 auf 191 Kilometer im Jahr 2014 ausgebaut. Im Jahr 2016 erreichte die Initiative Volksentscheid Fahrrad mit einer ausreichenden Anzahl an Unterschriften einen Antrag auf ein Volksbegehren. 2018 wurde von Rot - rot - grün das [ CITY ] er Mobilitätsgesetz beschlossen, das wesentliche Ziele der Initiative zugunsten des Radverkehrs übernahm. Seitdem wurden, jedenfalls bis zum Wechsel in der Regierung 2023, etliche Radfahrstreifen und Pop - Up - Radwege neu angelegt, oft zu Lasten von vorherigen Parkstreifen am Fahrbahnrand oder auch unter Nutzung von nicht mehr erforderlichen Fahrstreifen. Für mehrere Radschnellverbindungen liegen Machbarkeitsstudien und konkretere Planungen vor. Umgesetzt wurden bisher nur kurze Abschnitte der Radschnellwege. Einige Abschnitte stehen kurz vor der Planfeststellung ( Stand 02 - 2024 ). Durch [ CITY ] führen überregionale touristische Radfernwege wie der Radweg [ CITY ] - Kopenhagen, der Radweg [ CITY ] - Usedom, der Radweg [ CITY ] - Leipzig, der Europaradweg R1, die D - Netz - Route D11 sowie die D - Netz - Route D3 ( Europaroute ). Entlang des früheren Verlaufs der [ CITY ] er Mauer führt der [ CITY ] er Mauerweg. Mehrere tausend Mietfahrräder können im Innenstadtbereich per Telefonanruf oder ( mobilem ) Internet ( Apps ) ausgeliehen werden, von verschiedenen Anbietern ( u. a. Nextbike, CallBike, Bird ). In touristisch geprägten Gebieten der Stadt verkehren zur touristischen Nutzung Fahrradtaxis.",
+      "true_city": "Berlin",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Nationalsozialismus Nach der Machtergreifung 1933 gewann [ CITY ] in der Zeit des Nationalsozialismus als Hauptstadt des Dritten Reichs zunächst erneut an Bedeutung, vor allem durch die Zentralisierung, die mit der Gleichschaltung der Landesregierungen verbunden war. Adolf Hitler und Albert Speer entwickelten architektonische Konzepte für den Umbau der Stadt zur Welthauptstadt Germania, die jedoch nie verwirklicht wurden. Das NS - Regime zerstörte [ CITY ] s jüdische Gemeinde, die vor 1933 rund 160. 000 Mitglieder zählte. Nach den Novemberpogromen von 1938 wurden tausende [ CITY ] er Juden ins nahe gelegene KZ Sachsenhausen deportiert. Rund 50. 000 der noch in [ CITY ] wohnhaften 66. 000 Juden wurden von 1941 an in Ghettos und Arbeitslager nach Litzmannstadt, Minsk, Kaunas, Riga, Piaski oder Theresienstadt deportiert. Viele starben dort unter den widrigen Lebensbedingungen, andere wurden später während des Holocausts in Vernichtungslager wie Auschwitz verschleppt und ermordet. Während des Zweiten Weltkriegs wurde [ CITY ] erstmals am 25. August 1940 von britischen Bombern angegriffen. Die alliierten Luftangriffe steigerten sich massiv ab 1943, wobei große Teile [ CITY ] s zerstört wurden. 1945 führte die Schlacht um [ CITY ] zu weiteren Zerstörungen. Fast die Hälfte aller Gebäude waren zerstört, nur ein Viertel aller Wohnungen waren unbeschädigt geblieben. Von 226 Brücken standen nur noch 98. Heute sind etwa 40 % aller Gebäude [ CITY ] s aus der Zeit vor dem Zweiten Weltkrieg.",
+      "true_city": "Berlin",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Zimmer in Studentenwohnheimen sind bei Studienanfängern sehr beliebt, da sie günstig sind und den sozialen Anschluss erleichtern. Das Studierendenwerk [ CITY ] bietet viele dieser Zimmer an. Es gibt Wohnheime mit Apartments oder Gemeinschaftsfluren, in denen Küche und Bad geteilt werden. Die möblierten Standardzimmer kosten etwa 300 € pro Monat, abhängig vom Komfortniveau. Eine frühzeitige Bewerbung ist ratsam, da die Nachfrage zu Semesterbeginn hoch ist. Nach der Anmeldung beim Studierendenwerk muss regelmäßig das Interesse bestätigt werden, um auf der Warteliste zu bleiben.",
+      "true_city": "Hamburg",
+      "predicted_city": "Chemnitz"
+    },
+    {
+      "text": "Kultur [ CITY ] hat über 60 Theater, über 100 Musikclubs, etwa 60 Museen, rund 280 Musikverlage und 200 Tonträger - Unternehmen. Laut der Clubstudie 2021 der Initiative Musik hat [ CITY ] nach München und vor Köln und Berlin die zweithöchste Musikspielstätten - Dichte der größten Städte Deutschlands. Außerdem leben und arbeiten in [ CITY ] mehr als 10. 000 selbstständige Künstler. Es gibt fast 30 Kinos und Programmkinos. Über 10, 3 Millionen Besucher zählte 2006 die [ CITY ] er Kulturbehörde alleine für Veranstaltungen, die öffentlich gefördert wurden. 4, 2 Millionen Besucher zählten die Theaterbühnen der Stadt in der Saison 2005 / 2006. [ CITY ] ist mit 2383 Theaterbesuchern je 1000 Einwohner führend in Deutschland und liegt selbst nach Abzug der Musicalbesucher vor den nachfolgenden Ländern Bremen ( 921 ) und Berlin ( 907 ). Zudem sind in [ CITY ] einige Sehenswürdigkeiten von überregionaler Bedeutung beheimatet. In einer weltweiten Umfrage der Deutschen Zentrale für Tourismus wurden 2017 erneut zahlreiche [ CITY ] Sehenswürdigkeiten unter die Top 100 in Deutschland gewählt, darunter das Miniatur Wunderland auf Platz 1.",
+      "true_city": "Hamburg",
+      "predicted_city": "Berlin"
+    },
+    {
+      "text": "[ CITY ] s sozialräumliche Strukturen sind stabil Die Behörde für Stadtentwicklung und Wohnen hat den Sozialmonitoring - Bericht 2024 veröffentlicht. Bereits zum 15. Mal werden im Rahmen des seit 2010 laufenden Monitorings jährlich die kleinräumigen Sozialdaten der Statistischen Gebiete [ CITY ] s analysiert. Aus den Ergebnissen wird unter anderem abgeleitet, welche Quartiere besondere Aufmerksamkeit benötigen und im Rahmenprogramm Integrierte Stadtteilentwicklung ( RISE ) gefördert werden sollen. Stadtentwicklung und Wohnen Sie lesen den Originaltext Karen Pein, Senatorin für Stadtentwicklung und Wohnen : Das ist eine gute Botschaft und eine Bestätigung unserer Arbeit : die Ergebnisse unseres aktuellen Sozialmonitoring - Berichts zeigen keine Anzeichen für ein soziales Auseinanderdriften in unserer Stadt, [ CITY ] s Quartiere sind sozial sehr robust und stabil. In der Gesamtentwicklung seit dem ersten Sozialmonitoring - Bericht im Jahr 2010 ist zudem eine klar positive Tendenz zu erkennen : Es leben heute deutlich weniger [ CITY ] erinnen und [ CITY ] er in Statistischen Gebieten mit einem niedrigen oder sehr niedrigen Status als noch 2010. Das bei einer insgesamt stetig wachsenden Anzahl an Bürgerinnen und Bürgern. Seit 15 Jahren nutzen wir die Ergebnisse des Sozialmonitorings, um die Fördergebiete des Rahmenprogramms Integrierte Stadtteilentwicklung ( RISE ) festzulegen. Rund 765 Millionen Euro öffentliche Mittel, davon rund 357 Millionen RISE - Mittel, konnten so in insgesamt 67 ausgewählte Fördergebiete investiert werden, um die Lebensqualität zu verbessern und lebendige, stabile Quartiere zu entwickeln. Durch das Sozialmonitoring halten wir die Stadt im Blick und können mit unserer Förderung an den richtigen Stellen ansetzen. Im Sozialmonitoring - Bericht wird die sozialräumliche Entwicklung in [ CITY ] jährlich untersucht und beschrieben. Ziel ist es, sozialräumliche Unterschiede innerhalb der Stadt erkennbar zu machen. Zugleich sollen unterstützungsbedürftige Quartiere frühzeitig erkannt werden. Besonderes Augenmerk wird im Sozialmonitoring auf Statistische Gebiete mit einem niedrigen oder sehr niedrigen Status gelegt. In diesen Quartieren weisen bestimmte betrachtete soziale Indikatoren erhöhte Anteile im Vergleich zum [ CITY ] er Durchschnitt auf, so dass dort soziale Herausforderungen verstärkt vermutet werden können. Zu den Indikatoren gehören z. B. der Anteil der Empfängerinnen und Empfänger staatlicher Leistungen, der Anteil von Arbeitslosen an der Bevölkerung, der Anteil der Kinder und Jugendlichen mit Migrationshintergrund sowie der Anteil der Jugendlichen ohne höheren",
+      "true_city": "Hamburg",
+      "predicted_city": "Berlin"
+    }
+  ]
+}
